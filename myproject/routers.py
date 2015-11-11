@@ -6,4 +6,4 @@ def includeme(config):
 
 
 def home_include(config):
-    config.add_route("home.index", "/home")
+    config.add_route("home.index", "/")
