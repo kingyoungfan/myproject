@@ -12,5 +12,8 @@ def main(global_config, **settings):
     config.scan()
 
     routers.includeme(config)
+
+    config.add_translation_dirs('myproject:locale')
+    config.include('pyramid_jinja2')
     config.add_renderer('.html', renderer_factory)
     return config.make_wsgi_app()
