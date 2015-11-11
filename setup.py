@@ -12,7 +12,7 @@ requires = [
     'pyramid',
     'pyramid_chameleon',
     'pyramid_debugtoolbar',
-    'waitress',
+    'waitress', 'pyramid_jinja2',
     ]
 
 setup(name='myproject',

@@ -1,4 +1,5 @@
 from pyramid.config import Configurator
+from pyramid_jinja2 import renderer_factory
 from myproject import routers
 
 
@@ -11,4 +12,5 @@ def main(global_config, **settings):
     config.scan()
 
     routers.includeme(config)
+    config.add_renderer('.html', renderer_factory)
     return config.make_wsgi_app()
