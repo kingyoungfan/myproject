@@ -1,0 +1,2611 @@
+*** Starting uWSGI 2.0.11.2 (64bit) on [Wed Nov 11 17:49:32 2015] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.1.76) on 11 November 2015 13:32:15
+os: Darwin-15.0.0 Darwin Kernel Version 15.0.0: Sat Sep 19 15:53:46 PDT 2015; root:xnu-3247.10.11~1/RELEASE_X86_64
+nodename: yangyangdeMacBook-Pro.local
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /Users/yangyang/workspace_my/myproject
+writing pidfile to ./logs/pid_5000.pid
+detected binary path: /usr/local/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/uwsgi_myproject.sock fd 3
+Python version: 2.7.10 (default, Aug 22 2015, 20:33:39)  [GCC 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.0.59.1)]
+Python main interpreter initialized at 0x7f8e3bc09240
+python threads support enabled
+your server socket listen backlog is limited to 256 connections
+your mercy for graceful operations on workers is 60 seconds
+setting request body buffering size to 5120000 bytes
+mapped 103491520 bytes (101065 KB) for 16 cores
+*** Operational MODE: preforking+threaded ***
+Loading paste environment: config:/Users/yangyang/workspace_my/myproject/production.ini
+ImportError: No module named script.util.logging_config
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x7f8e3bc09240 pid: 31449 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 31449)
+spawned uWSGI worker 1 (pid: 31452, cores: 4)
+spawned uWSGI worker 2 (pid: 31453, cores: 4)
+spawned uWSGI worker 3 (pid: 31454, cores: 4)
+spawned uWSGI worker 4 (pid: 31455, cores: 4)
+*** Starting uWSGI 2.0.11.2 (64bit) on [Wed Nov 11 17:56:00 2015] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.1.76) on 11 November 2015 13:32:15
+os: Darwin-15.0.0 Darwin Kernel Version 15.0.0: Sat Sep 19 15:53:46 PDT 2015; root:xnu-3247.10.11~1/RELEASE_X86_64
+nodename: yangyangdeMacBook-Pro.local
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /Users/yangyang/workspace_my/myproject
+writing pidfile to ./logs/pid_5000.pid
+detected binary path: /usr/local/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/uwsgi_myproject.sock fd 3
+Python version: 2.7.10 (default, Aug 22 2015, 20:33:39)  [GCC 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.0.59.1)]
+Python main interpreter initialized at 0x7f8922409ab0
+python threads support enabled
+your server socket listen backlog is limited to 256 connections
+your mercy for graceful operations on workers is 60 seconds
+setting request body buffering size to 5120000 bytes
+mapped 103491520 bytes (101065 KB) for 16 cores
+*** Operational MODE: preforking+threaded ***
+Loading paste environment: config:/Users/yangyang/workspace_my/myproject/production.ini
+ImportError: No module named script.util.logging_config
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x7f8922409ab0 pid: 31574 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 31574)
+spawned uWSGI worker 1 (pid: 31577, cores: 4)
+spawned uWSGI worker 2 (pid: 31578, cores: 4)
+spawned uWSGI worker 3 (pid: 31579, cores: 4)
+spawned uWSGI worker 4 (pid: 31580, cores: 4)
+*** Starting uWSGI 2.0.11.2 (64bit) on [Wed Nov 11 18:21:05 2015] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.1.76) on 11 November 2015 13:32:15
+os: Darwin-15.0.0 Darwin Kernel Version 15.0.0: Sat Sep 19 15:53:46 PDT 2015; root:xnu-3247.10.11~1/RELEASE_X86_64
+nodename: yangyangdeMacBook-Pro.local
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /Users/yangyang/workspace_my/myproject
+writing pidfile to ./logs/pid_5000.pid
+detected binary path: /usr/local/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/uwsgi_myproject.sock fd 3
+Python version: 2.7.10 (default, Aug 22 2015, 20:33:39)  [GCC 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.0.59.1)]
+Python main interpreter initialized at 0x7fc501e00950
+python threads support enabled
+your server socket listen backlog is limited to 256 connections
+your mercy for graceful operations on workers is 60 seconds
+setting request body buffering size to 5120000 bytes
+mapped 103491520 bytes (101065 KB) for 16 cores
+*** Operational MODE: preforking+threaded ***
+Loading paste environment: config:/Users/yangyang/workspace_my/myproject/production.ini
+ImportError: No module named script.util.logging_config
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x7fc501e00950 pid: 31719 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 31719)
+spawned uWSGI worker 1 (pid: 31722, cores: 4)
+spawned uWSGI worker 2 (pid: 31723, cores: 4)
+spawned uWSGI worker 3 (pid: 31724, cores: 4)
+spawned uWSGI worker 4 (pid: 31725, cores: 4)
+*** Starting uWSGI 2.0.11.2 (64bit) on [Wed Nov 11 18:33:04 2015] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.1.76) on 11 November 2015 13:32:15
+os: Darwin-15.0.0 Darwin Kernel Version 15.0.0: Sat Sep 19 15:53:46 PDT 2015; root:xnu-3247.10.11~1/RELEASE_X86_64
+nodename: yangyangdeMacBook-Pro.local
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /Users/yangyang/workspace_my/myproject
+writing pidfile to ./logs/pid_5000.pid
+detected binary path: /usr/local/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/uwsgi_myproject.sock fd 3
+Python version: 2.7.10 (default, Aug 22 2015, 20:33:39)  [GCC 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.0.59.1)]
+Python main interpreter initialized at 0x7fc459d06f50
+python threads support enabled
+your server socket listen backlog is limited to 256 connections
+your mercy for graceful operations on workers is 60 seconds
+setting request body buffering size to 5120000 bytes
+mapped 103491520 bytes (101065 KB) for 16 cores
+*** Operational MODE: preforking+threaded ***
+Loading paste environment: config:/Users/yangyang/workspace_my/myproject/production.ini
+ImportError: No module named script.util.logging_config
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x7fc459d06f50 pid: 31793 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 31793)
+spawned uWSGI worker 1 (pid: 31796, cores: 4)
+spawned uWSGI worker 2 (pid: 31797, cores: 4)
+spawned uWSGI worker 3 (pid: 31798, cores: 4)
+spawned uWSGI worker 4 (pid: 31799, cores: 4)
+*** Starting uWSGI 2.0.11.2 (64bit) on [Wed Nov 11 18:44:26 2015] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.1.76) on 11 November 2015 13:32:15
+os: Darwin-15.0.0 Darwin Kernel Version 15.0.0: Sat Sep 19 15:53:46 PDT 2015; root:xnu-3247.10.11~1/RELEASE_X86_64
+nodename: yangyangdeMacBook-Pro.local
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /Users/yangyang/workspace_my/myproject
+writing pidfile to ./logs/pid_5000.pid
+detected binary path: /usr/local/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+error removing unix socket, unlink(): Permission denied [core/socket.c line 198]
+bind(): Address already in use [core/socket.c line 230]
+*** Starting uWSGI 2.0.11.2 (64bit) on [Wed Nov 11 18:45:18 2015] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.1.76) on 11 November 2015 13:32:15
+os: Darwin-15.0.0 Darwin Kernel Version 15.0.0: Sat Sep 19 15:53:46 PDT 2015; root:xnu-3247.10.11~1/RELEASE_X86_64
+nodename: yangyangdeMacBook-Pro.local
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /Users/yangyang/workspace_my/myproject
+writing pidfile to ./logs/pid_5000.pid
+detected binary path: /usr/local/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/uwsgi_myproject.sock fd 3
+Python version: 2.7.10 (default, Aug 22 2015, 20:33:39)  [GCC 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.0.59.1)]
+Python main interpreter initialized at 0x7fca40c03770
+python threads support enabled
+your server socket listen backlog is limited to 256 connections
+your mercy for graceful operations on workers is 60 seconds
+setting request body buffering size to 5120000 bytes
+mapped 103491520 bytes (101065 KB) for 16 cores
+*** Operational MODE: preforking+threaded ***
+Loading paste environment: config:/Users/yangyang/workspace_my/myproject/production.ini
+ImportError: No module named script.util.logging_config
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x7fca40c03770 pid: 31851 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 31851)
+spawned uWSGI worker 1 (pid: 31854, cores: 4)
+spawned uWSGI worker 2 (pid: 31855, cores: 4)
+spawned uWSGI worker 3 (pid: 31856, cores: 4)
+spawned uWSGI worker 4 (pid: 31857, cores: 4)
+*** Starting uWSGI 2.0.11.2 (64bit) on [Wed Nov 11 18:49:51 2015] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.1.76) on 11 November 2015 13:32:15
+os: Darwin-15.0.0 Darwin Kernel Version 15.0.0: Sat Sep 19 15:53:46 PDT 2015; root:xnu-3247.10.11~1/RELEASE_X86_64
+nodename: yangyangdeMacBook-Pro.local
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /Users/yangyang/workspace_my/myproject
+writing pidfile to ./logs/pid_5000.pid
+detected binary path: /usr/local/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/uwsgi_myproject.sock fd 3
+Python version: 2.7.10 (default, Aug 22 2015, 20:33:39)  [GCC 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.0.59.1)]
+Python main interpreter initialized at 0x7f8502e06c70
+python threads support enabled
+your server socket listen backlog is limited to 256 connections
+your mercy for graceful operations on workers is 60 seconds
+setting request body buffering size to 5120000 bytes
+mapped 103491520 bytes (101065 KB) for 16 cores
+*** Operational MODE: preforking+threaded ***
+Loading paste environment: config:/Users/yangyang/workspace_my/myproject/production.ini
+ImportError: No module named script.util.logging_config
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x7f8502e06c70 pid: 31916 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 31916)
+spawned uWSGI worker 1 (pid: 31919, cores: 4)
+spawned uWSGI worker 2 (pid: 31920, cores: 4)
+spawned uWSGI worker 3 (pid: 31921, cores: 4)
+spawned uWSGI worker 4 (pid: 31922, cores: 4)
+*** Starting uWSGI 2.0.11.2 (64bit) on [Wed Nov 11 18:52:08 2015] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.1.76) on 11 November 2015 13:32:15
+os: Darwin-15.0.0 Darwin Kernel Version 15.0.0: Sat Sep 19 15:53:46 PDT 2015; root:xnu-3247.10.11~1/RELEASE_X86_64
+nodename: yangyangdeMacBook-Pro.local
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /Users/yangyang/workspace_my/myproject
+writing pidfile to ./logs/pid_5000.pid
+detected binary path: /usr/local/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+error removing unix socket, unlink(): Permission denied [core/socket.c line 198]
+bind(): Address already in use [core/socket.c line 230]
+*** Starting uWSGI 2.0.11.2 (64bit) on [Wed Nov 11 18:53:49 2015] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.1.76) on 11 November 2015 13:32:15
+os: Darwin-15.0.0 Darwin Kernel Version 15.0.0: Sat Sep 19 15:53:46 PDT 2015; root:xnu-3247.10.11~1/RELEASE_X86_64
+nodename: yangyangdeMacBook-Pro.local
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /Users/yangyang/workspace_my/myproject
+writing pidfile to ./logs/pid_5000.pid
+detected binary path: /usr/local/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/uwsgi_myproject.sock fd 3
+Python version: 2.7.10 (default, Aug 22 2015, 20:33:39)  [GCC 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.0.59.1)]
+Python main interpreter initialized at 0x7f8b715008d0
+python threads support enabled
+your server socket listen backlog is limited to 256 connections
+your mercy for graceful operations on workers is 60 seconds
+setting request body buffering size to 5120000 bytes
+mapped 103491520 bytes (101065 KB) for 16 cores
+*** Operational MODE: preforking+threaded ***
+Loading paste environment: config:/Users/yangyang/workspace_my/myproject/production.ini
+ImportError: No module named script.util.logging_config
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x7f8b715008d0 pid: 32021 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 32021)
+spawned uWSGI worker 1 (pid: 32024, cores: 4)
+spawned uWSGI worker 2 (pid: 32025, cores: 4)
+spawned uWSGI worker 3 (pid: 32026, cores: 4)
+spawned uWSGI worker 4 (pid: 32027, cores: 4)
+*** Starting uWSGI 2.0.11.2 (64bit) on [Wed Nov 11 19:02:59 2015] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.1.76) on 11 November 2015 13:32:15
+os: Darwin-15.0.0 Darwin Kernel Version 15.0.0: Sat Sep 19 15:53:46 PDT 2015; root:xnu-3247.10.11~1/RELEASE_X86_64
+nodename: yangyangdeMacBook-Pro.local
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /Users/yangyang/workspace_my/myproject
+writing pidfile to ./logs/pid_5000.pid
+detected binary path: /usr/local/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/uwsgi_myproject.sock fd 3
+Python version: 2.7.10 (default, Aug 22 2015, 20:33:39)  [GCC 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.0.59.1)]
+Python main interpreter initialized at 0x7fcb21d00890
+python threads support enabled
+your server socket listen backlog is limited to 256 connections
+your mercy for graceful operations on workers is 60 seconds
+setting request body buffering size to 5120000 bytes
+mapped 103491520 bytes (101065 KB) for 16 cores
+*** Operational MODE: preforking+threaded ***
+Loading paste environment: config:/Users/yangyang/workspace_my/myproject/production.ini
+ImportError: No module named script.util.logging_config
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x7fcb21d00890 pid: 32055 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 32055)
+spawned uWSGI worker 1 (pid: 32058, cores: 4)
+spawned uWSGI worker 2 (pid: 32059, cores: 4)
+spawned uWSGI worker 3 (pid: 32060, cores: 4)
+spawned uWSGI worker 4 (pid: 32061, cores: 4)
+*** Starting uWSGI 2.0.11.2 (64bit) on [Wed Nov 11 19:09:53 2015] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.1.76) on 11 November 2015 13:32:15
+os: Darwin-15.0.0 Darwin Kernel Version 15.0.0: Sat Sep 19 15:53:46 PDT 2015; root:xnu-3247.10.11~1/RELEASE_X86_64
+nodename: yangyangdeMacBook-Pro.local
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /Users/yangyang/workspace_my/myproject
+writing pidfile to ./logs/pid_5000.pid
+detected binary path: /usr/local/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/uwsgi_myproject.sock fd 3
+Python version: 2.7.10 (default, Aug 22 2015, 20:33:39)  [GCC 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.0.59.1)]
+Python main interpreter initialized at 0x7f81c16006a0
+python threads support enabled
+your server socket listen backlog is limited to 256 connections
+your mercy for graceful operations on workers is 60 seconds
+setting request body buffering size to 5120000 bytes
+mapped 103491520 bytes (101065 KB) for 16 cores
+*** Operational MODE: preforking+threaded ***
+Loading paste environment: config:/Users/yangyang/workspace_my/myproject/production.ini
+ImportError: No module named script.util.logging_config
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x7f81c16006a0 pid: 32086 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 32086)
+spawned uWSGI worker 1 (pid: 32089, cores: 4)
+spawned uWSGI worker 2 (pid: 32090, cores: 4)
+spawned uWSGI worker 3 (pid: 32091, cores: 4)
+spawned uWSGI worker 4 (pid: 32092, cores: 4)
+*** Starting uWSGI 2.0.11.2 (64bit) on [Wed Nov 11 19:16:15 2015] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.1.76) on 11 November 2015 13:32:15
+os: Darwin-15.0.0 Darwin Kernel Version 15.0.0: Sat Sep 19 15:53:46 PDT 2015; root:xnu-3247.10.11~1/RELEASE_X86_64
+nodename: yangyangdeMacBook-Pro.local
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /Users/yangyang/workspace_my/myproject
+writing pidfile to ./logs/pid_5000.pid
+detected binary path: /usr/local/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/uwsgi_myproject.sock fd 3
+Python version: 2.7.10 (default, Aug 22 2015, 20:33:39)  [GCC 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.0.59.1)]
+Python main interpreter initialized at 0x7fbddb409c50
+python threads support enabled
+your server socket listen backlog is limited to 256 connections
+your mercy for graceful operations on workers is 60 seconds
+setting request body buffering size to 5120000 bytes
+mapped 103491520 bytes (101065 KB) for 16 cores
+*** Operational MODE: preforking+threaded ***
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 32112)
+spawned uWSGI worker 1 (pid: 32113, cores: 4)
+spawned uWSGI worker 2 (pid: 32114, cores: 4)
+spawned uWSGI worker 3 (pid: 32115, cores: 4)
+spawned uWSGI worker 4 (pid: 32116, cores: 4)
+*** Starting uWSGI 2.0.11.2 (64bit) on [Wed Nov 11 19:18:01 2015] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.1.76) on 11 November 2015 13:32:15
+os: Darwin-15.0.0 Darwin Kernel Version 15.0.0: Sat Sep 19 15:53:46 PDT 2015; root:xnu-3247.10.11~1/RELEASE_X86_64
+nodename: yangyangdeMacBook-Pro.local
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /Users/yangyang/workspace_my/myproject
+writing pidfile to ./logs/pid_5000.pid
+detected binary path: /usr/local/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/uwsgi_myproject.sock fd 3
+Python version: 2.7.10 (default, Aug 22 2015, 20:33:39)  [GCC 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.0.59.1)]
+Python main interpreter initialized at 0x7fe9f1f000d0
+python threads support enabled
+your server socket listen backlog is limited to 256 connections
+your mercy for graceful operations on workers is 60 seconds
+setting request body buffering size to 5120000 bytes
+mapped 103491520 bytes (101065 KB) for 16 cores
+*** Operational MODE: preforking+threaded ***
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 32153)
+spawned uWSGI worker 1 (pid: 32154, cores: 4)
+spawned uWSGI worker 2 (pid: 32155, cores: 4)
+spawned uWSGI worker 3 (pid: 32156, cores: 4)
+spawned uWSGI worker 4 (pid: 32157, cores: 4)
+*** Starting uWSGI 2.0.11.2 (64bit) on [Wed Nov 11 19:19:33 2015] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.1.76) on 11 November 2015 13:32:15
+os: Darwin-15.0.0 Darwin Kernel Version 15.0.0: Sat Sep 19 15:53:46 PDT 2015; root:xnu-3247.10.11~1/RELEASE_X86_64
+nodename: yangyangdeMacBook-Pro.local
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /Users/yangyang/workspace_my/myproject
+writing pidfile to ./logs/pid_5000.pid
+detected binary path: /usr/local/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+error removing unix socket, unlink(): Permission denied [core/socket.c line 198]
+bind(): Address already in use [core/socket.c line 230]
+*** Starting uWSGI 2.0.11.2 (64bit) on [Wed Nov 11 19:22:24 2015] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.1.76) on 11 November 2015 13:32:15
+os: Darwin-15.0.0 Darwin Kernel Version 15.0.0: Sat Sep 19 15:53:46 PDT 2015; root:xnu-3247.10.11~1/RELEASE_X86_64
+nodename: yangyangdeMacBook-Pro.local
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /Users/yangyang/workspace_my/myproject
+writing pidfile to ./logs/pid_5000.pid
+detected binary path: /usr/local/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+error removing unix socket, unlink(): Permission denied [core/socket.c line 198]
+bind(): Address already in use [core/socket.c line 230]
+*** Starting uWSGI 2.0.11.2 (64bit) on [Wed Nov 11 19:22:44 2015] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.1.76) on 11 November 2015 13:32:15
+os: Darwin-15.0.0 Darwin Kernel Version 15.0.0: Sat Sep 19 15:53:46 PDT 2015; root:xnu-3247.10.11~1/RELEASE_X86_64
+nodename: yangyangdeMacBook-Pro.local
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /Users/yangyang/workspace_my/myproject
+writing pidfile to ./logs/pid_5000.pid
+detected binary path: /usr/local/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/uwsgi_myproject.sock fd 3
+Python version: 2.7.10 (default, Aug 22 2015, 20:33:39)  [GCC 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.0.59.1)]
+Python main interpreter initialized at 0x7fe0f8f01230
+python threads support enabled
+your server socket listen backlog is limited to 256 connections
+your mercy for graceful operations on workers is 60 seconds
+setting request body buffering size to 5120000 bytes
+mapped 103491520 bytes (101065 KB) for 16 cores
+*** Operational MODE: preforking+threaded ***
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 32220)
+spawned uWSGI worker 1 (pid: 32221, cores: 4)
+spawned uWSGI worker 2 (pid: 32222, cores: 4)
+spawned uWSGI worker 3 (pid: 32223, cores: 4)
+spawned uWSGI worker 4 (pid: 32224, cores: 4)
+*** Starting uWSGI 2.0.11.2 (64bit) on [Wed Nov 11 19:24:46 2015] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.1.76) on 11 November 2015 13:32:15
+os: Darwin-15.0.0 Darwin Kernel Version 15.0.0: Sat Sep 19 15:53:46 PDT 2015; root:xnu-3247.10.11~1/RELEASE_X86_64
+nodename: yangyangdeMacBook-Pro.local
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /Users/yangyang/workspace_my/myproject
+writing pidfile to ./logs/pid_5000.pid
+detected binary path: /usr/local/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/uwsgi_myproject.sock fd 3
+Python version: 2.7.10 (default, Aug 22 2015, 20:33:39)  [GCC 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.0.59.1)]
+Python main interpreter initialized at 0x7fbecb506bf0
+python threads support enabled
+your server socket listen backlog is limited to 256 connections
+your mercy for graceful operations on workers is 60 seconds
+setting request body buffering size to 5120000 bytes
+mapped 103491520 bytes (101065 KB) for 16 cores
+*** Operational MODE: preforking+threaded ***
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 32264)
+spawned uWSGI worker 1 (pid: 32265, cores: 4)
+spawned uWSGI worker 2 (pid: 32266, cores: 4)
+spawned uWSGI worker 3 (pid: 32267, cores: 4)
+spawned uWSGI worker 4 (pid: 32268, cores: 4)
+*** Starting uWSGI 2.0.11.2 (64bit) on [Wed Nov 11 19:30:26 2015] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.1.76) on 11 November 2015 13:32:15
+os: Darwin-15.0.0 Darwin Kernel Version 15.0.0: Sat Sep 19 15:53:46 PDT 2015; root:xnu-3247.10.11~1/RELEASE_X86_64
+nodename: yangyangdeMacBook-Pro.local
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /Users/yangyang/workspace_my/myproject
+writing pidfile to ./logs/pid_5000.pid
+detected binary path: /usr/local/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/uwsgi_myproject.sock fd 3
+Python version: 2.7.10 (default, Aug 22 2015, 20:33:39)  [GCC 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.0.59.1)]
+Python main interpreter initialized at 0x7fbff8500c20
+python threads support enabled
+your server socket listen backlog is limited to 256 connections
+your mercy for graceful operations on workers is 60 seconds
+setting request body buffering size to 5120000 bytes
+mapped 103491520 bytes (101065 KB) for 16 cores
+*** Operational MODE: preforking+threaded ***
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 32351)
+spawned uWSGI worker 1 (pid: 32352, cores: 4)
+spawned uWSGI worker 2 (pid: 32353, cores: 4)
+spawned uWSGI worker 3 (pid: 32354, cores: 4)
+spawned uWSGI worker 4 (pid: 32355, cores: 4)
+*** Starting uWSGI 2.0.11.2 (64bit) on [Wed Nov 11 19:34:28 2015] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.1.76) on 11 November 2015 13:32:15
+os: Darwin-15.0.0 Darwin Kernel Version 15.0.0: Sat Sep 19 15:53:46 PDT 2015; root:xnu-3247.10.11~1/RELEASE_X86_64
+nodename: yangyangdeMacBook-Pro.local
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /Users/yangyang/workspace_my/myproject
+writing pidfile to ./logs/pid_5000.pid
+detected binary path: /usr/local/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/uwsgi_myproject.sock fd 3
+Python version: 2.7.10 (default, Aug 22 2015, 20:33:39)  [GCC 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.0.59.1)]
+Python main interpreter initialized at 0x7f8e4ad004d0
+python threads support enabled
+your server socket listen backlog is limited to 256 connections
+your mercy for graceful operations on workers is 60 seconds
+setting request body buffering size to 5120000 bytes
+mapped 103491520 bytes (101065 KB) for 16 cores
+*** Operational MODE: preforking+threaded ***
+Loading paste environment: config:/Users/yangyang/workspace_my/myproject/production.ini
+ImportError: No module named script.util.logging_config
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x7f8e4ad004d0 pid: 32438 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 32438)
+spawned uWSGI worker 1 (pid: 32441, cores: 4)
+spawned uWSGI worker 2 (pid: 32442, cores: 4)
+spawned uWSGI worker 3 (pid: 32443, cores: 4)
+spawned uWSGI worker 4 (pid: 32444, cores: 4)
+*** Starting uWSGI 2.0.11.2 (64bit) on [Wed Nov 11 19:38:20 2015] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.1.76) on 11 November 2015 13:32:15
+os: Darwin-15.0.0 Darwin Kernel Version 15.0.0: Sat Sep 19 15:53:46 PDT 2015; root:xnu-3247.10.11~1/RELEASE_X86_64
+nodename: yangyangdeMacBook-Pro.local
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /Users/yangyang/workspace_my/myproject
+writing pidfile to ./logs/pid_5000.pid
+detected binary path: /usr/local/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/uwsgi_myproject.sock fd 3
+Python version: 2.7.10 (default, Aug 22 2015, 20:33:39)  [GCC 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.0.59.1)]
+Python main interpreter initialized at 0x7fcce14099b0
+python threads support enabled
+your server socket listen backlog is limited to 256 connections
+your mercy for graceful operations on workers is 60 seconds
+setting request body buffering size to 5120000 bytes
+mapped 103491520 bytes (101065 KB) for 16 cores
+*** Operational MODE: preforking+threaded ***
+Loading paste environment: config:/Users/yangyang/workspace_my/myproject/production.ini
+ImportError: No module named script.util.logging_config
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x7fcce14099b0 pid: 32485 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 32485)
+spawned uWSGI worker 1 (pid: 32488, cores: 4)
+spawned uWSGI worker 2 (pid: 32489, cores: 4)
+spawned uWSGI worker 3 (pid: 32490, cores: 4)
+spawned uWSGI worker 4 (pid: 32491, cores: 4)
+*** Starting uWSGI 2.0.11.2 (64bit) on [Wed Nov 11 19:41:34 2015] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.1.76) on 11 November 2015 13:32:15
+os: Darwin-15.0.0 Darwin Kernel Version 15.0.0: Sat Sep 19 15:53:46 PDT 2015; root:xnu-3247.10.11~1/RELEASE_X86_64
+nodename: yangyangdeMacBook-Pro.local
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /Users/yangyang/workspace_my/myproject
+writing pidfile to ./logs/pid_5000.pid
+detected binary path: /usr/local/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+error removing unix socket, unlink(): Permission denied [core/socket.c line 198]
+bind(): Address already in use [core/socket.c line 230]
+*** Starting uWSGI 2.0.11.2 (64bit) on [Wed Nov 11 19:42:34 2015] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.1.76) on 11 November 2015 13:32:15
+os: Darwin-15.0.0 Darwin Kernel Version 15.0.0: Sat Sep 19 15:53:46 PDT 2015; root:xnu-3247.10.11~1/RELEASE_X86_64
+nodename: yangyangdeMacBook-Pro.local
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /Users/yangyang/workspace_my/myproject
+writing pidfile to ./logs/pid_5000.pid
+detected binary path: /usr/local/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/uwsgi_myproject.sock fd 3
+Python version: 2.7.10 (default, Aug 22 2015, 20:33:39)  [GCC 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.0.59.1)]
+Python main interpreter initialized at 0x7ffe1b506eb0
+python threads support enabled
+your server socket listen backlog is limited to 256 connections
+your mercy for graceful operations on workers is 60 seconds
+setting request body buffering size to 5120000 bytes
+mapped 103491520 bytes (101065 KB) for 16 cores
+*** Operational MODE: preforking+threaded ***
+Loading paste environment: config:/Users/yangyang/workspace_my/myproject/production.ini
+ImportError: No module named script.util.logging_config
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x7ffe1b506eb0 pid: 32570 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 32570)
+spawned uWSGI worker 1 (pid: 32573, cores: 4)
+spawned uWSGI worker 2 (pid: 32574, cores: 4)
+spawned uWSGI worker 3 (pid: 32575, cores: 4)
+spawned uWSGI worker 4 (pid: 32576, cores: 4)
+...brutally killing workers...
+worker 4 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 2 buried after 1 seconds
+worker 1 buried after 1 seconds
+binary reloading uWSGI...
+chdir() to /Users/yangyang/workspace_my/myproject
+closing all non-uwsgi socket fds > 2 (max_fd = 256)...
+found fd 3 mapped to socket 0 (/tmp/uwsgi_myproject.sock)
+running /usr/local/bin/uwsgi
+[uWSGI] getting INI configuration from /Users/yangyang/workspace_my/myproject/production.ini
+*** Starting uWSGI 2.0.11.2 (64bit) on [Thu Nov 12 09:09:00 2015] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.1.76) on 11 November 2015 13:32:15
+os: Darwin-15.0.0 Darwin Kernel Version 15.0.0: Sat Sep 19 15:53:46 PDT 2015; root:xnu-3247.10.11~1/RELEASE_X86_64
+nodename: yangyangdeMacBook-Pro.local
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /Users/yangyang/workspace_my/myproject
+detected binary path: /usr/local/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 inherited UNIX address /tmp/uwsgi_myproject.sock fd 3
+Python version: 2.7.10 (default, Aug 22 2015, 20:33:39)  [GCC 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.0.59.1)]
+Python main interpreter initialized at 0x7fd30b409ce0
+python threads support enabled
+your server socket listen backlog is limited to 256 connections
+your mercy for graceful operations on workers is 60 seconds
+setting request body buffering size to 5120000 bytes
+mapped 103491520 bytes (101065 KB) for 16 cores
+*** Operational MODE: preforking+threaded ***
+Loading paste environment: config:/Users/yangyang/workspace_my/myproject/production.ini
+ImportError: No module named script.util.logging_config
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x7fd30b409ce0 pid: 32570 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+gracefully (RE)spawned uWSGI master process (pid: 32570)
+spawned uWSGI worker 1 (pid: 33303, cores: 4)
+spawned uWSGI worker 2 (pid: 33304, cores: 4)
+spawned uWSGI worker 3 (pid: 33305, cores: 4)
+spawned uWSGI worker 4 (pid: 33306, cores: 4)
+*** Starting uWSGI 2.0.11.2 (64bit) on [Thu Nov 12 09:57:45 2015] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.1.76) on 11 November 2015 13:32:15
+os: Darwin-15.0.0 Darwin Kernel Version 15.0.0: Sat Sep 19 15:53:46 PDT 2015; root:xnu-3247.10.11~1/RELEASE_X86_64
+nodename: yangyangdeMacBook-Pro.local
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /Users/yangyang/workspace_my/myproject
+writing pidfile to ./logs/pid_5000.pid
+detected binary path: /usr/local/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/uwsgi_myproject.sock fd 3
+Python version: 2.7.10 (default, Aug 22 2015, 20:33:39)  [GCC 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.0.59.1)]
+Python main interpreter initialized at 0x7ff7314099c0
+python threads support enabled
+your server socket listen backlog is limited to 256 connections
+your mercy for graceful operations on workers is 60 seconds
+setting request body buffering size to 5120000 bytes
+mapped 103491520 bytes (101065 KB) for 16 cores
+*** Operational MODE: preforking+threaded ***
+Loading paste environment: config:/Users/yangyang/workspace_my/myproject/production.ini
+ImportError: No module named script.util.logging_config
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x7ff7314099c0 pid: 3839 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 3839)
+spawned uWSGI worker 1 (pid: 3842, cores: 4)
+spawned uWSGI worker 2 (pid: 3843, cores: 4)
+spawned uWSGI worker 3 (pid: 3844, cores: 4)
+spawned uWSGI worker 4 (pid: 3845, cores: 4)
+*** Starting uWSGI 2.0.11.2 (64bit) on [Thu Nov 12 10:07:00 2015] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.1.76) on 11 November 2015 13:32:15
+os: Darwin-15.0.0 Darwin Kernel Version 15.0.0: Sat Sep 19 15:53:46 PDT 2015; root:xnu-3247.10.11~1/RELEASE_X86_64
+nodename: yangyangdeMacBook-Pro.local
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /Users/yangyang/workspace_my/myproject
+writing pidfile to ./logs/pid_5000.pid
+detected binary path: /usr/local/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/uwsgi_myproject.sock fd 3
+Python version: 2.7.10 (default, Aug 22 2015, 20:33:39)  [GCC 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.0.59.1)]
+Python main interpreter initialized at 0x7fc70bc09e30
+python threads support enabled
+your server socket listen backlog is limited to 256 connections
+your mercy for graceful operations on workers is 60 seconds
+setting request body buffering size to 5120000 bytes
+mapped 103491520 bytes (101065 KB) for 16 cores
+*** Operational MODE: preforking+threaded ***
+Loading paste environment: config:/Users/yangyang/workspace_my/myproject/production.ini
+ImportError: No module named script.util.logging_config
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x7fc70bc09e30 pid: 3976 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 3976)
+spawned uWSGI worker 1 (pid: 3981, cores: 4)
+spawned uWSGI worker 2 (pid: 3982, cores: 4)
+spawned uWSGI worker 3 (pid: 3983, cores: 4)
+spawned uWSGI worker 4 (pid: 3984, cores: 4)
+*** Starting uWSGI 2.0.11.2 (64bit) on [Thu Nov 12 10:13:38 2015] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.1.76) on 12 November 2015 10:12:22
+os: Darwin-15.0.0 Darwin Kernel Version 15.0.0: Sat Sep 19 15:53:46 PDT 2015; root:xnu-3247.10.11~1/RELEASE_X86_64
+nodename: yangyangdeMacBook-Pro.local
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /Users/yangyang/workspace_my/myproject
+writing pidfile to ./logs/pid_5000.pid
+detected binary path: /Users/yangyang/.virtualenvs/env_pyramid/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/uwsgi_myproject.sock fd 3
+Python version: 3.4.3 (v3.4.3:9b73f1c3e601, Feb 23 2015, 02:52:03)  [GCC 4.2.1 (Apple Inc. build 5666) (dot 3)]
+Python main interpreter initialized at 0x7fb06b40a110
+python threads support enabled
+your server socket listen backlog is limited to 256 connections
+your mercy for graceful operations on workers is 60 seconds
+setting request body buffering size to 5120000 bytes
+mapped 103491520 bytes (101065 KB) for 16 cores
+*** Operational MODE: preforking+threaded ***
+Loading paste environment: config:/Users/yangyang/workspace_my/myproject/production.ini
+ImportError: No module named 'paste'
+ImportError: No module named 'paste'
+*** Starting uWSGI 2.0.11.2 (64bit) on [Thu Nov 12 10:14:03 2015] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.1.76) on 12 November 2015 10:12:22
+os: Darwin-15.0.0 Darwin Kernel Version 15.0.0: Sat Sep 19 15:53:46 PDT 2015; root:xnu-3247.10.11~1/RELEASE_X86_64
+nodename: yangyangdeMacBook-Pro.local
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /Users/yangyang/workspace_my/myproject
+writing pidfile to ./logs/pid_5000.pid
+detected binary path: /Users/yangyang/.virtualenvs/env_pyramid/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/uwsgi_myproject.sock fd 3
+Python version: 3.4.3 (v3.4.3:9b73f1c3e601, Feb 23 2015, 02:52:03)  [GCC 4.2.1 (Apple Inc. build 5666) (dot 3)]
+Python main interpreter initialized at 0x7ff783409c40
+python threads support enabled
+your server socket listen backlog is limited to 256 connections
+your mercy for graceful operations on workers is 60 seconds
+setting request body buffering size to 5120000 bytes
+mapped 103491520 bytes (101065 KB) for 16 cores
+*** Operational MODE: preforking+threaded ***
+Loading paste environment: config:/Users/yangyang/workspace_my/myproject/production.ini
+ImportError: No module named 'paste'
+ImportError: No module named 'paste'
+*** Starting uWSGI 2.0.11.2 (64bit) on [Thu Nov 12 10:15:22 2015] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.1.76) on 12 November 2015 10:12:22
+os: Darwin-15.0.0 Darwin Kernel Version 15.0.0: Sat Sep 19 15:53:46 PDT 2015; root:xnu-3247.10.11~1/RELEASE_X86_64
+nodename: yangyangdeMacBook-Pro.local
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /Users/yangyang/workspace_my/myproject
+writing pidfile to ./logs/pid_5000.pid
+detected binary path: /Users/yangyang/.virtualenvs/env_pyramid/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/uwsgi_myproject.sock fd 3
+Python version: 3.4.3 (v3.4.3:9b73f1c3e601, Feb 23 2015, 02:52:03)  [GCC 4.2.1 (Apple Inc. build 5666) (dot 3)]
+Python main interpreter initialized at 0x7fb1b1d00cf0
+python threads support enabled
+your server socket listen backlog is limited to 256 connections
+your mercy for graceful operations on workers is 60 seconds
+setting request body buffering size to 5120000 bytes
+mapped 103491520 bytes (101065 KB) for 16 cores
+*** Operational MODE: preforking+threaded ***
+Loading paste environment: config:/Users/yangyang/workspace_my/myproject/production.ini
+ImportError: No module named 'paste'
+ImportError: No module named 'paste'
+*** Starting uWSGI 2.0.11.2 (64bit) on [Thu Nov 12 10:16:48 2015] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.1.76) on 12 November 2015 10:12:22
+os: Darwin-15.0.0 Darwin Kernel Version 15.0.0: Sat Sep 19 15:53:46 PDT 2015; root:xnu-3247.10.11~1/RELEASE_X86_64
+nodename: yangyangdeMacBook-Pro.local
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /Users/yangyang/workspace_my/myproject
+writing pidfile to ./logs/pid_5000.pid
+detected binary path: /Users/yangyang/.virtualenvs/env_pyramid/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/uwsgi_myproject.sock fd 3
+Python version: 3.4.3 (v3.4.3:9b73f1c3e601, Feb 23 2015, 02:52:03)  [GCC 4.2.1 (Apple Inc. build 5666) (dot 3)]
+Python main interpreter initialized at 0x7fa6f0c09940
+python threads support enabled
+your server socket listen backlog is limited to 256 connections
+your mercy for graceful operations on workers is 60 seconds
+setting request body buffering size to 5120000 bytes
+mapped 103491520 bytes (101065 KB) for 16 cores
+*** Operational MODE: preforking+threaded ***
+Loading paste environment: config:/Users/yangyang/workspace_my/myproject/production.ini
+ImportError: No module named 'paste'
+ImportError: No module named 'paste'
+*** Starting uWSGI 2.0.11.2 (64bit) on [Thu Nov 12 10:18:47 2015] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.1.76) on 12 November 2015 10:12:22
+os: Darwin-15.0.0 Darwin Kernel Version 15.0.0: Sat Sep 19 15:53:46 PDT 2015; root:xnu-3247.10.11~1/RELEASE_X86_64
+nodename: yangyangdeMacBook-Pro.local
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /Users/yangyang/workspace_my/myproject
+writing pidfile to ./logs/pid_5000.pid
+detected binary path: /Users/yangyang/.virtualenvs/env_pyramid/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/uwsgi_myproject.sock fd 3
+Python version: 3.4.3 (v3.4.3:9b73f1c3e601, Feb 23 2015, 02:52:03)  [GCC 4.2.1 (Apple Inc. build 5666) (dot 3)]
+Python main interpreter initialized at 0x7fe8835003a0
+python threads support enabled
+your server socket listen backlog is limited to 256 connections
+your mercy for graceful operations on workers is 60 seconds
+setting request body buffering size to 5120000 bytes
+mapped 103491520 bytes (101065 KB) for 16 cores
+*** Operational MODE: preforking+threaded ***
+Loading paste environment: config:/Users/yangyang/workspace_my/myproject/production.ini
+ImportError: No module named 'paste'
+ImportError: No module named 'paste'
+*** Starting uWSGI 2.0.11.2 (64bit) on [Thu Nov 12 10:19:49 2015] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.1.76) on 12 November 2015 10:12:22
+os: Darwin-15.0.0 Darwin Kernel Version 15.0.0: Sat Sep 19 15:53:46 PDT 2015; root:xnu-3247.10.11~1/RELEASE_X86_64
+nodename: yangyangdeMacBook-Pro.local
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /Users/yangyang/workspace_my/myproject
+writing pidfile to ./logs/pid_5000.pid
+detected binary path: /Users/yangyang/.virtualenvs/env_pyramid/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/uwsgi_myproject.sock fd 3
+Python version: 3.4.3 (v3.4.3:9b73f1c3e601, Feb 23 2015, 02:52:03)  [GCC 4.2.1 (Apple Inc. build 5666) (dot 3)]
+Python main interpreter initialized at 0x7fb331d005b0
+python threads support enabled
+your server socket listen backlog is limited to 256 connections
+your mercy for graceful operations on workers is 60 seconds
+setting request body buffering size to 5120000 bytes
+mapped 103491520 bytes (101065 KB) for 16 cores
+*** Operational MODE: preforking+threaded ***
+Loading paste environment: config:/Users/yangyang/workspace_my/myproject/production.ini
+ImportError: No module named 'paste'
+ImportError: No module named 'paste'
+*** Starting uWSGI 2.0.11.2 (64bit) on [Thu Nov 12 10:21:26 2015] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.1.76) on 12 November 2015 10:12:22
+os: Darwin-15.0.0 Darwin Kernel Version 15.0.0: Sat Sep 19 15:53:46 PDT 2015; root:xnu-3247.10.11~1/RELEASE_X86_64
+nodename: yangyangdeMacBook-Pro.local
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /Users/yangyang/workspace_my/myproject
+writing pidfile to ./logs/pid_5000.pid
+detected binary path: /Users/yangyang/.virtualenvs/env_pyramid/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+error removing unix socket, unlink(): Permission denied [core/socket.c line 198]
+bind(): Address already in use [core/socket.c line 230]
+*** Starting uWSGI 2.0.11.2 (64bit) on [Thu Nov 12 10:22:06 2015] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.1.76) on 12 November 2015 10:12:22
+os: Darwin-15.0.0 Darwin Kernel Version 15.0.0: Sat Sep 19 15:53:46 PDT 2015; root:xnu-3247.10.11~1/RELEASE_X86_64
+nodename: yangyangdeMacBook-Pro.local
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /Users/yangyang/workspace_my/myproject
+writing pidfile to ./logs/pid_5000.pid
+detected binary path: /Users/yangyang/.virtualenvs/env_pyramid/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+error removing unix socket, unlink(): Permission denied [core/socket.c line 198]
+bind(): Address already in use [core/socket.c line 230]
+*** Starting uWSGI 2.0.11.2 (64bit) on [Thu Nov 12 10:22:24 2015] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.1.76) on 12 November 2015 10:12:22
+os: Darwin-15.0.0 Darwin Kernel Version 15.0.0: Sat Sep 19 15:53:46 PDT 2015; root:xnu-3247.10.11~1/RELEASE_X86_64
+nodename: yangyangdeMacBook-Pro.local
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /Users/yangyang/workspace_my/myproject
+writing pidfile to ./logs/pid_5000.pid
+detected binary path: /Users/yangyang/.virtualenvs/env_pyramid/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/uwsgi_myproject.sock fd 3
+Python version: 3.4.3 (v3.4.3:9b73f1c3e601, Feb 23 2015, 02:52:03)  [GCC 4.2.1 (Apple Inc. build 5666) (dot 3)]
+Python main interpreter initialized at 0x7fae71403700
+python threads support enabled
+your server socket listen backlog is limited to 256 connections
+your mercy for graceful operations on workers is 60 seconds
+setting request body buffering size to 5120000 bytes
+mapped 103491520 bytes (101065 KB) for 16 cores
+*** Operational MODE: preforking+threaded ***
+Loading paste environment: config:/Users/yangyang/workspace_my/myproject/production.ini
+ImportError: No module named 'paste'
+ImportError: No module named 'paste'
+*** Starting uWSGI 2.0.11.2 (64bit) on [Thu Nov 12 10:23:21 2015] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.1.76) on 12 November 2015 10:12:22
+os: Darwin-15.0.0 Darwin Kernel Version 15.0.0: Sat Sep 19 15:53:46 PDT 2015; root:xnu-3247.10.11~1/RELEASE_X86_64
+nodename: yangyangdeMacBook-Pro.local
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /Users/yangyang/workspace_my/myproject
+writing pidfile to ./logs/pid_5000.pid
+detected binary path: /Users/yangyang/.virtualenvs/env_pyramid/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/uwsgi_myproject.sock fd 3
+Python version: 3.4.3 (v3.4.3:9b73f1c3e601, Feb 23 2015, 02:52:03)  [GCC 4.2.1 (Apple Inc. build 5666) (dot 3)]
+Python main interpreter initialized at 0x7fae60c09a70
+python threads support enabled
+your server socket listen backlog is limited to 256 connections
+your mercy for graceful operations on workers is 60 seconds
+setting request body buffering size to 5120000 bytes
+mapped 103491520 bytes (101065 KB) for 16 cores
+*** Operational MODE: preforking+threaded ***
+Loading paste environment: config:/Users/yangyang/workspace_my/myproject/production.ini
+ImportError: No module named 'paste'
+ImportError: No module named 'paste'
+*** Starting uWSGI 2.0.11.2 (64bit) on [Thu Nov 12 10:25:14 2015] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.1.76) on 12 November 2015 10:12:22
+os: Darwin-15.0.0 Darwin Kernel Version 15.0.0: Sat Sep 19 15:53:46 PDT 2015; root:xnu-3247.10.11~1/RELEASE_X86_64
+nodename: yangyangdeMacBook-Pro.local
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /Users/yangyang/workspace_my/myproject
+writing pidfile to ./logs/pid_5000.pid
+detected binary path: /Users/yangyang/.virtualenvs/env_pyramid/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/uwsgi_myproject.sock fd 3
+Python version: 3.4.3 (v3.4.3:9b73f1c3e601, Feb 23 2015, 02:52:03)  [GCC 4.2.1 (Apple Inc. build 5666) (dot 3)]
+Python main interpreter initialized at 0x7ffa91d075c0
+python threads support enabled
+your server socket listen backlog is limited to 256 connections
+your mercy for graceful operations on workers is 60 seconds
+setting request body buffering size to 5120000 bytes
+mapped 103491520 bytes (101065 KB) for 16 cores
+*** Operational MODE: preforking+threaded ***
+Loading paste environment: config:/Users/yangyang/workspace_my/myproject/development.ini
+ImportError: No module named 'paste'
+ImportError: No module named 'paste'
+*** Starting uWSGI 2.0.11.2 (64bit) on [Thu Nov 12 10:27:23 2015] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.1.76) on 12 November 2015 10:12:22
+os: Darwin-15.0.0 Darwin Kernel Version 15.0.0: Sat Sep 19 15:53:46 PDT 2015; root:xnu-3247.10.11~1/RELEASE_X86_64
+nodename: yangyangdeMacBook-Pro.local
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /Users/yangyang/workspace_my/myproject
+writing pidfile to ./logs/pid_5000.pid
+detected binary path: /Users/yangyang/.virtualenvs/env_pyramid/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/uwsgi_myproject.sock fd 3
+Python version: 3.4.3 (v3.4.3:9b73f1c3e601, Feb 23 2015, 02:52:03)  [GCC 4.2.1 (Apple Inc. build 5666) (dot 3)]
+Python main interpreter initialized at 0x7fca034058e0
+python threads support enabled
+your server socket listen backlog is limited to 256 connections
+your mercy for graceful operations on workers is 60 seconds
+setting request body buffering size to 5120000 bytes
+mapped 103491520 bytes (101065 KB) for 16 cores
+*** Operational MODE: preforking+threaded ***
+Loading paste environment: config:/Users/yangyang/workspace_my/myproject/development.ini
+ImportError: No module named 'paste'
+ImportError: No module named 'paste'
+*** Starting uWSGI 2.0.11.2 (64bit) on [Thu Nov 12 10:32:34 2015] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.1.76) on 12 November 2015 10:12:22
+os: Darwin-15.0.0 Darwin Kernel Version 15.0.0: Sat Sep 19 15:53:46 PDT 2015; root:xnu-3247.10.11~1/RELEASE_X86_64
+nodename: yangyangdeMacBook-Pro.local
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /Users/yangyang/workspace_my/myproject
+writing pidfile to ./logs/pid_5000.pid
+detected binary path: /Users/yangyang/.virtualenvs/env_pyramid/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/uwsgi_myproject.sock fd 3
+Python version: 3.4.3 (v3.4.3:9b73f1c3e601, Feb 23 2015, 02:52:03)  [GCC 4.2.1 (Apple Inc. build 5666) (dot 3)]
+Python main interpreter initialized at 0x7fa62a5006e0
+python threads support enabled
+your server socket listen backlog is limited to 256 connections
+your mercy for graceful operations on workers is 60 seconds
+setting request body buffering size to 5120000 bytes
+mapped 103491520 bytes (101065 KB) for 16 cores
+*** Operational MODE: preforking+threaded ***
+Loading paste environment: config:/Users/yangyang/workspace_my/myproject/development.ini
+ImportError: No module named 'paste'
+ImportError: No module named 'paste'
+*** Starting uWSGI 2.0.11.2 (64bit) on [Thu Nov 12 11:03:00 2015] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.1.76) on 12 November 2015 10:12:22
+os: Darwin-15.0.0 Darwin Kernel Version 15.0.0: Sat Sep 19 15:53:46 PDT 2015; root:xnu-3247.10.11~1/RELEASE_X86_64
+nodename: yangyangdeMacBook-Pro.local
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /Users/yangyang/workspace_my/myproject
+writing pidfile to ./logs/pid_5000.pid
+detected binary path: /Users/yangyang/.virtualenvs/env_pyramid/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/uwsgi_myproject.sock fd 3
+Python version: 3.4.3 (v3.4.3:9b73f1c3e601, Feb 23 2015, 02:52:03)  [GCC 4.2.1 (Apple Inc. build 5666) (dot 3)]
+Python main interpreter initialized at 0x7fccca409fa0
+python threads support enabled
+your server socket listen backlog is limited to 256 connections
+your mercy for graceful operations on workers is 60 seconds
+setting request body buffering size to 5120000 bytes
+mapped 103491520 bytes (101065 KB) for 16 cores
+*** Operational MODE: preforking+threaded ***
+Loading paste environment: config:/Users/yangyang/workspace_my/myproject/development.ini
+ImportError: No module named 'paste'
+ImportError: No module named 'paste'
+*** Starting uWSGI 2.0.11.2 (64bit) on [Thu Nov 12 11:05:03 2015] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.1.76) on 12 November 2015 10:12:22
+os: Darwin-15.0.0 Darwin Kernel Version 15.0.0: Sat Sep 19 15:53:46 PDT 2015; root:xnu-3247.10.11~1/RELEASE_X86_64
+nodename: yangyangdeMacBook-Pro.local
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /Users/yangyang/workspace_my/myproject
+writing pidfile to ./logs/pid_5000.pid
+detected binary path: /Users/yangyang/.virtualenvs/env_pyramid/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/uwsgi_myproject.sock fd 3
+Python version: 3.4.3 (v3.4.3:9b73f1c3e601, Feb 23 2015, 02:52:03)  [GCC 4.2.1 (Apple Inc. build 5666) (dot 3)]
+Python main interpreter initialized at 0x7faac16001f0
+python threads support enabled
+your server socket listen backlog is limited to 256 connections
+your mercy for graceful operations on workers is 60 seconds
+setting request body buffering size to 5120000 bytes
+mapped 103491520 bytes (101065 KB) for 16 cores
+*** Operational MODE: preforking+threaded ***
+Loading paste environment: config:/Users/yangyang/workspace_my/myproject/development.ini
+ImportError: No module named 'paste'
+ImportError: No module named 'paste'
+*** Starting uWSGI 2.0.11.2 (64bit) on [Thu Nov 12 11:05:34 2015] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.1.76) on 12 November 2015 10:12:22
+os: Darwin-15.0.0 Darwin Kernel Version 15.0.0: Sat Sep 19 15:53:46 PDT 2015; root:xnu-3247.10.11~1/RELEASE_X86_64
+nodename: yangyangdeMacBook-Pro.local
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /Users/yangyang/workspace_my/myproject
+writing pidfile to ./logs/pid_5000.pid
+detected binary path: /Users/yangyang/.virtualenvs/env_pyramid/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/uwsgi_myproject.sock fd 3
+Python version: 3.4.3 (v3.4.3:9b73f1c3e601, Feb 23 2015, 02:52:03)  [GCC 4.2.1 (Apple Inc. build 5666) (dot 3)]
+Python main interpreter initialized at 0x7fb61240a3a0
+python threads support enabled
+your server socket listen backlog is limited to 256 connections
+your mercy for graceful operations on workers is 60 seconds
+setting request body buffering size to 5120000 bytes
+mapped 103491520 bytes (101065 KB) for 16 cores
+*** Operational MODE: preforking+threaded ***
+Loading paste environment: config:/Users/yangyang/workspace_my/myproject/development.ini
+ImportError: No module named 'paste'
+ImportError: No module named 'paste'
+*** Starting uWSGI 2.0.11.2 (64bit) on [Thu Nov 12 11:07:31 2015] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.1.76) on 12 November 2015 10:12:22
+os: Darwin-15.0.0 Darwin Kernel Version 15.0.0: Sat Sep 19 15:53:46 PDT 2015; root:xnu-3247.10.11~1/RELEASE_X86_64
+nodename: yangyangdeMacBook-Pro.local
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /Users/yangyang/workspace_my/myproject
+writing pidfile to ./logs/pid_5000.pid
+detected binary path: /Users/yangyang/.virtualenvs/env_pyramid/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/uwsgi_myproject.sock fd 3
+Python version: 3.4.3 (v3.4.3:9b73f1c3e601, Feb 23 2015, 02:52:03)  [GCC 4.2.1 (Apple Inc. build 5666) (dot 3)]
+Python main interpreter initialized at 0x7f8400506bc0
+python threads support enabled
+your server socket listen backlog is limited to 256 connections
+your mercy for graceful operations on workers is 60 seconds
+setting request body buffering size to 5120000 bytes
+mapped 103491520 bytes (101065 KB) for 16 cores
+*** Operational MODE: preforking+threaded ***
+Loading paste environment: config:/Users/yangyang/workspace_my/myproject/development.ini
+ImportError: No module named 'paste'
+ImportError: No module named 'paste'
+*** Starting uWSGI 2.0.11.2 (64bit) on [Thu Nov 12 11:25:16 2015] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.1.76) on 12 November 2015 10:12:22
+os: Darwin-15.0.0 Darwin Kernel Version 15.0.0: Sat Sep 19 15:53:46 PDT 2015; root:xnu-3247.10.11~1/RELEASE_X86_64
+nodename: yangyangdeMacBook-Pro.local
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /Users/yangyang/workspace_my/myproject
+writing pidfile to ./logs/pid_5000.pid
+detected binary path: /Users/yangyang/.virtualenvs/env_pyramid/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/uwsgi_myproject.sock fd 3
+Python version: 3.4.3 (v3.4.3:9b73f1c3e601, Feb 23 2015, 02:52:03)  [GCC 4.2.1 (Apple Inc. build 5666) (dot 3)]
+Python main interpreter initialized at 0x7fe8834058f0
+python threads support enabled
+your server socket listen backlog is limited to 256 connections
+your mercy for graceful operations on workers is 60 seconds
+setting request body buffering size to 5120000 bytes
+mapped 103491520 bytes (101065 KB) for 16 cores
+*** Operational MODE: preforking+threaded ***
+Loading paste environment: config:/Users/yangyang/workspace_my/myproject/development.ini
+ImportError: No module named 'paste'
+ImportError: No module named 'paste'
+*** Starting uWSGI 2.0.11.2 (64bit) on [Thu Nov 12 11:26:19 2015] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.1.76) on 12 November 2015 10:12:22
+os: Darwin-15.0.0 Darwin Kernel Version 15.0.0: Sat Sep 19 15:53:46 PDT 2015; root:xnu-3247.10.11~1/RELEASE_X86_64
+nodename: yangyangdeMacBook-Pro.local
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /Users/yangyang/workspace_my/myproject
+writing pidfile to ./logs/pid_5000.pid
+detected binary path: /Users/yangyang/.virtualenvs/env_pyramid/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+error removing unix socket, unlink(): Permission denied [core/socket.c line 198]
+bind(): Address already in use [core/socket.c line 230]
+*** Starting uWSGI 2.0.11.2 (64bit) on [Thu Nov 12 11:26:42 2015] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.1.76) on 12 November 2015 10:12:22
+os: Darwin-15.0.0 Darwin Kernel Version 15.0.0: Sat Sep 19 15:53:46 PDT 2015; root:xnu-3247.10.11~1/RELEASE_X86_64
+nodename: yangyangdeMacBook-Pro.local
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /Users/yangyang/workspace_my/myproject
+writing pidfile to ./logs/pid_5000.pid
+detected binary path: /Users/yangyang/.virtualenvs/env_pyramid/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/uwsgi_myproject.sock fd 3
+Python version: 3.4.3 (v3.4.3:9b73f1c3e601, Feb 23 2015, 02:52:03)  [GCC 4.2.1 (Apple Inc. build 5666) (dot 3)]
+Python main interpreter initialized at 0x7f852ad00fa0
+python threads support enabled
+your server socket listen backlog is limited to 256 connections
+your mercy for graceful operations on workers is 60 seconds
+setting request body buffering size to 5120000 bytes
+mapped 103491520 bytes (101065 KB) for 16 cores
+*** Operational MODE: preforking+threaded ***
+Loading paste environment: config:/Users/yangyang/workspace_my/myproject/development.ini
+ImportError: No module named 'paste'
+ImportError: No module named 'paste'
+*** Starting uWSGI 2.0.11.2 (64bit) on [Thu Nov 12 11:31:17 2015] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.1.76) on 12 November 2015 10:12:22
+os: Darwin-15.0.0 Darwin Kernel Version 15.0.0: Sat Sep 19 15:53:46 PDT 2015; root:xnu-3247.10.11~1/RELEASE_X86_64
+nodename: yangyangdeMacBook-Pro.local
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /Users/yangyang/workspace_my/myproject
+writing pidfile to ./logs/pid_5000.pid
+detected binary path: /Users/yangyang/.virtualenvs/env_pyramid/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/uwsgi_myproject.sock fd 3
+Python version: 3.4.3 (v3.4.3:9b73f1c3e601, Feb 23 2015, 02:52:03)  [GCC 4.2.1 (Apple Inc. build 5666) (dot 3)]
+Python main interpreter initialized at 0x7f8a40506820
+python threads support enabled
+your server socket listen backlog is limited to 256 connections
+your mercy for graceful operations on workers is 60 seconds
+setting request body buffering size to 5120000 bytes
+mapped 103491520 bytes (101065 KB) for 16 cores
+*** Operational MODE: preforking+threaded ***
+Loading paste environment: config:/Users/yangyang/workspace_my/myproject/development.ini
+ImportError: No module named 'paste'
+ImportError: No module named 'paste'
+*** Starting uWSGI 2.0.11.2 (64bit) on [Thu Nov 12 11:47:47 2015] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.1.76) on 12 November 2015 10:12:22
+os: Darwin-15.0.0 Darwin Kernel Version 15.0.0: Sat Sep 19 15:53:46 PDT 2015; root:xnu-3247.10.11~1/RELEASE_X86_64
+nodename: yangyangdeMacBook-Pro.local
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /Users/yangyang/workspace_my/myproject
+writing pidfile to ./logs/pid_5000.pid
+detected binary path: /Users/yangyang/.virtualenvs/env_pyramid/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/uwsgi_myproject.sock fd 3
+Python version: 3.4.3 (v3.4.3:9b73f1c3e601, Feb 23 2015, 02:52:03)  [GCC 4.2.1 (Apple Inc. build 5666) (dot 3)]
+Python main interpreter initialized at 0x7fd8da507760
+python threads support enabled
+your server socket listen backlog is limited to 256 connections
+your mercy for graceful operations on workers is 60 seconds
+setting request body buffering size to 5120000 bytes
+mapped 103491520 bytes (101065 KB) for 16 cores
+*** Operational MODE: preforking+threaded ***
+Loading paste environment: config:/Users/yangyang/workspace_my/myproject/production.ini
+ImportError: No module named 'paste'
+ImportError: No module named 'paste'
+*** Starting uWSGI 2.0.11.2 (64bit) on [Thu Nov 12 11:48:42 2015] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.1.76) on 12 November 2015 10:12:22
+os: Darwin-15.0.0 Darwin Kernel Version 15.0.0: Sat Sep 19 15:53:46 PDT 2015; root:xnu-3247.10.11~1/RELEASE_X86_64
+nodename: yangyangdeMacBook-Pro.local
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /Users/yangyang/workspace_my/myproject
+writing pidfile to ./logs/pid_5000.pid
+detected binary path: /Users/yangyang/.virtualenvs/env_pyramid/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/uwsgi_myproject.sock fd 3
+Python version: 3.4.3 (v3.4.3:9b73f1c3e601, Feb 23 2015, 02:52:03)  [GCC 4.2.1 (Apple Inc. build 5666) (dot 3)]
+Python main interpreter initialized at 0x7fb719d01270
+python threads support enabled
+your server socket listen backlog is limited to 256 connections
+your mercy for graceful operations on workers is 60 seconds
+setting request body buffering size to 5120000 bytes
+mapped 103491520 bytes (101065 KB) for 16 cores
+*** Operational MODE: preforking+threaded ***
+Loading paste environment: config:/Users/yangyang/workspace_my/myproject/production.ini
+ImportError: No module named 'paste'
+*** Starting uWSGI 2.0.11.2 (64bit) on [Thu Nov 12 11:50:29 2015] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.1.76) on 12 November 2015 10:12:22
+os: Darwin-15.0.0 Darwin Kernel Version 15.0.0: Sat Sep 19 15:53:46 PDT 2015; root:xnu-3247.10.11~1/RELEASE_X86_64
+nodename: yangyangdeMacBook-Pro.local
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /Users/yangyang/workspace_my/myproject
+writing pidfile to ./logs/pid_5000.pid
+detected binary path: /Users/yangyang/.virtualenvs/env_pyramid/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/uwsgi_myproject.sock fd 3
+Python version: 3.4.3 (v3.4.3:9b73f1c3e601, Feb 23 2015, 02:52:03)  [GCC 4.2.1 (Apple Inc. build 5666) (dot 3)]
+Python main interpreter initialized at 0x7fcbb1c03750
+python threads support enabled
+your server socket listen backlog is limited to 256 connections
+your mercy for graceful operations on workers is 60 seconds
+setting request body buffering size to 5120000 bytes
+mapped 103491520 bytes (101065 KB) for 16 cores
+*** Operational MODE: preforking+threaded ***
+Loading paste environment: config:/Users/yangyang/workspace_my/myproject/production.ini
+ImportError: No module named 'paste'
+ImportError: No module named 'paste'
+*** Starting uWSGI 2.0.11.2 (64bit) on [Thu Nov 12 12:03:05 2015] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.1.76) on 11 November 2015 13:32:15
+os: Darwin-15.0.0 Darwin Kernel Version 15.0.0: Sat Sep 19 15:53:46 PDT 2015; root:xnu-3247.10.11~1/RELEASE_X86_64
+nodename: yangyangdeMacBook-Pro.local
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /Users/yangyang/workspace_my/myproject
+writing pidfile to ./logs/pid_5000.pid
+detected binary path: /usr/local/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/uwsgi_myproject.sock fd 3
+Python version: 2.7.10 (default, Aug 22 2015, 20:33:39)  [GCC 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.0.59.1)]
+Python main interpreter initialized at 0x7fc093504cc0
+python threads support enabled
+your server socket listen backlog is limited to 256 connections
+your mercy for graceful operations on workers is 60 seconds
+setting request body buffering size to 5120000 bytes
+mapped 103491520 bytes (101065 KB) for 16 cores
+*** Operational MODE: preforking+threaded ***
+Loading paste environment: config:/Users/yangyang/workspace_my/myproject/production.ini
+ImportError: No module named script.util.logging_config
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x7fc093504cc0 pid: 912 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 912)
+spawned uWSGI worker 1 (pid: 915, cores: 4)
+spawned uWSGI worker 2 (pid: 916, cores: 4)
+spawned uWSGI worker 3 (pid: 917, cores: 4)
+spawned uWSGI worker 4 (pid: 918, cores: 4)
+*** Starting uWSGI 2.0.11.2 (64bit) on [Thu Nov 12 12:06:54 2015] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.1.76) on 11 November 2015 13:32:15
+os: Darwin-15.0.0 Darwin Kernel Version 15.0.0: Sat Sep 19 15:53:46 PDT 2015; root:xnu-3247.10.11~1/RELEASE_X86_64
+nodename: yangyangdeMacBook-Pro.local
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /Users/yangyang/workspace_my/myproject
+writing pidfile to ./logs/pid_5000.pid
+detected binary path: /usr/local/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/uwsgi_myproject.sock fd 3
+Python version: 2.7.10 (default, Aug 22 2015, 20:33:39)  [GCC 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.0.59.1)]
+Python main interpreter initialized at 0x7fbad3e008e0
+python threads support enabled
+your server socket listen backlog is limited to 256 connections
+your mercy for graceful operations on workers is 60 seconds
+setting request body buffering size to 5120000 bytes
+mapped 103491520 bytes (101065 KB) for 16 cores
+*** Operational MODE: preforking+threaded ***
+Loading paste environment: config:/Users/yangyang/workspace_my/myproject/production.ini
+ImportError: No module named script.util.logging_config
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x7fbad3e008e0 pid: 981 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 981)
+spawned uWSGI worker 1 (pid: 984, cores: 4)
+spawned uWSGI worker 2 (pid: 985, cores: 4)
+spawned uWSGI worker 3 (pid: 986, cores: 4)
+spawned uWSGI worker 4 (pid: 987, cores: 4)
+*** Starting uWSGI 2.0.11.2 (64bit) on [Thu Nov 12 13:41:02 2015] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.1.76) on 12 November 2015 10:12:22
+os: Darwin-15.0.0 Darwin Kernel Version 15.0.0: Sat Sep 19 15:53:46 PDT 2015; root:xnu-3247.10.11~1/RELEASE_X86_64
+nodename: yangyangdeMacBook-Pro.local
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /Users/yangyang/workspace_my/myproject
+writing pidfile to ./logs/pid_5000.pid
+detected binary path: /Users/yangyang/.virtualenvs/env_pyramid/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/uwsgi_myproject.sock fd 3
+Python version: 3.4.3 (v3.4.3:9b73f1c3e601, Feb 23 2015, 02:52:03)  [GCC 4.2.1 (Apple Inc. build 5666) (dot 3)]
+Python main interpreter initialized at 0x7fa60bf02f30
+python threads support enabled
+your server socket listen backlog is limited to 256 connections
+your mercy for graceful operations on workers is 60 seconds
+setting request body buffering size to 5120000 bytes
+mapped 103491520 bytes (101065 KB) for 16 cores
+*** Operational MODE: preforking+threaded ***
+Loading paste environment: config:/Users/yangyang/workspace_my/myproject/production.ini
+ImportError: No module named 'paste'
+ImportError: No module named 'paste'
+*** Starting uWSGI 2.0.11.2 (64bit) on [Thu Nov 12 14:29:14 2015] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.1.76) on 12 November 2015 10:12:22
+os: Darwin-15.0.0 Darwin Kernel Version 15.0.0: Sat Sep 19 15:53:46 PDT 2015; root:xnu-3247.10.11~1/RELEASE_X86_64
+nodename: yangyangdeMacBook-Pro.local
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /Users/yangyang/workspace_my/myproject
+writing pidfile to ./logs/pid_5000.pid
+detected binary path: /Users/yangyang/.virtualenvs/env_pyramid/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+error removing unix socket, unlink(): Permission denied [core/socket.c line 198]
+bind(): Address already in use [core/socket.c line 230]
+*** Starting uWSGI 2.0.11.2 (64bit) on [Thu Nov 12 14:29:41 2015] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.1.76) on 12 November 2015 10:12:22
+os: Darwin-15.0.0 Darwin Kernel Version 15.0.0: Sat Sep 19 15:53:46 PDT 2015; root:xnu-3247.10.11~1/RELEASE_X86_64
+nodename: yangyangdeMacBook-Pro.local
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /Users/yangyang/workspace_my/myproject
+writing pidfile to ./logs/pid_5000.pid
+detected binary path: /Users/yangyang/.virtualenvs/env_pyramid/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/uwsgi_myproject.sock fd 3
+Python version: 3.4.3 (v3.4.3:9b73f1c3e601, Feb 23 2015, 02:52:03)  [GCC 4.2.1 (Apple Inc. build 5666) (dot 3)]
+Python main interpreter initialized at 0x7fd8b0c03820
+python threads support enabled
+your server socket listen backlog is limited to 256 connections
+your mercy for graceful operations on workers is 60 seconds
+setting request body buffering size to 5120000 bytes
+mapped 103491520 bytes (101065 KB) for 16 cores
+*** Operational MODE: preforking+threaded ***
+Loading paste environment: config:/Users/yangyang/workspace_my/myproject/production.ini
+ImportError: No module named 'paste'
+ImportError: No module named 'paste'
+*** Starting uWSGI 2.0.11.2 (64bit) on [Thu Nov 12 14:30:55 2015] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.1.76) on 11 November 2015 13:32:15
+os: Darwin-15.0.0 Darwin Kernel Version 15.0.0: Sat Sep 19 15:53:46 PDT 2015; root:xnu-3247.10.11~1/RELEASE_X86_64
+nodename: yangyangdeMacBook-Pro.local
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /Users/yangyang/workspace_my/myproject
+writing pidfile to ./logs/pid_5000.pid
+detected binary path: /usr/local/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/uwsgi_myproject.sock fd 3
+Python version: 2.7.10 (default, Aug 22 2015, 20:33:39)  [GCC 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.0.59.1)]
+Python main interpreter initialized at 0x7fbb01506c10
+python threads support enabled
+your server socket listen backlog is limited to 256 connections
+your mercy for graceful operations on workers is 60 seconds
+setting request body buffering size to 5120000 bytes
+mapped 103491520 bytes (101065 KB) for 16 cores
+*** Operational MODE: preforking+threaded ***
+Loading paste environment: config:/Users/yangyang/workspace_my/myproject/production.ini
+ImportError: No module named script.util.logging_config
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x7fbb01506c10 pid: 1525 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 1525)
+spawned uWSGI worker 1 (pid: 1528, cores: 4)
+spawned uWSGI worker 2 (pid: 1529, cores: 4)
+spawned uWSGI worker 3 (pid: 1530, cores: 4)
+spawned uWSGI worker 4 (pid: 1531, cores: 4)
+*** Starting uWSGI 2.0.11.2 (64bit) on [Thu Nov 12 14:47:17 2015] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.1.76) on 11 November 2015 13:32:15
+os: Darwin-15.0.0 Darwin Kernel Version 15.0.0: Sat Sep 19 15:53:46 PDT 2015; root:xnu-3247.10.11~1/RELEASE_X86_64
+nodename: yangyangdeMacBook-Pro.local
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /Users/yangyang/workspace_my/myproject
+writing pidfile to ./logs/pid_5000.pid
+detected binary path: /usr/local/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/uwsgi_myproject.sock fd 3
+Python version: 2.7.10 (default, Aug 22 2015, 20:33:39)  [GCC 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.0.59.1)]
+Python main interpreter initialized at 0x7fc998500e50
+python threads support enabled
+your server socket listen backlog is limited to 256 connections
+your mercy for graceful operations on workers is 60 seconds
+setting request body buffering size to 5120000 bytes
+mapped 103491520 bytes (101065 KB) for 16 cores
+*** Operational MODE: preforking+threaded ***
+Loading paste environment: config:/Users/yangyang/workspace_my/myproject/production.ini
+ImportError: No module named script.util.logging_config
+Traceback (most recent call last):
+  File "/Library/Python/2.7/site-packages/paste/deploy/loadwsgi.py", line 247, in loadapp
+    return loadobj(APP, uri, name=name, **kw)
+  File "/Library/Python/2.7/site-packages/paste/deploy/loadwsgi.py", line 271, in loadobj
+    global_conf=global_conf)
+  File "/Library/Python/2.7/site-packages/paste/deploy/loadwsgi.py", line 296, in loadcontext
+    global_conf=global_conf)
+  File "/Library/Python/2.7/site-packages/paste/deploy/loadwsgi.py", line 317, in _loadconfig
+    loader = ConfigLoader(path)
+  File "/Library/Python/2.7/site-packages/paste/deploy/loadwsgi.py", line 394, in __init__
+    self.parser.read_file(f)
+  File "/usr/lib/python2.7/ConfigParser.py", line 324, in readfp
+    self._read(fp, filename)
+  File "/usr/lib/python2.7/ConfigParser.py", line 546, in _read
+    raise e
+ConfigParser.ParsingError: File contains parsing errors: /Users/yangyang/workspace_my/myproject/production.ini
+	[line 17]: 'pyramid_tm\n'
+	[line 18]: 'pyramid_beaker\n'
+	[line 19]: 'pyramid_exclog\n'
+	[line 20]: 'pyramid_celery\n'
+	[line 21]: 'scheduler2.daily2\n'
+*** Starting uWSGI 2.0.11.2 (64bit) on [Thu Nov 12 14:47:43 2015] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.1.76) on 11 November 2015 13:32:15
+os: Darwin-15.0.0 Darwin Kernel Version 15.0.0: Sat Sep 19 15:53:46 PDT 2015; root:xnu-3247.10.11~1/RELEASE_X86_64
+nodename: yangyangdeMacBook-Pro.local
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /Users/yangyang/workspace_my/myproject
+writing pidfile to ./logs/pid_5000.pid
+detected binary path: /usr/local/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/uwsgi_myproject.sock fd 3
+Python version: 2.7.10 (default, Aug 22 2015, 20:33:39)  [GCC 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.0.59.1)]
+Python main interpreter initialized at 0x7fefea700460
+python threads support enabled
+your server socket listen backlog is limited to 256 connections
+your mercy for graceful operations on workers is 60 seconds
+setting request body buffering size to 5120000 bytes
+mapped 103491520 bytes (101065 KB) for 16 cores
+*** Operational MODE: preforking+threaded ***
+Loading paste environment: config:/Users/yangyang/workspace_my/myproject/production.ini
+ImportError: No module named script.util.logging_config
+/System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/pkg_resources.py:979: UserWarning: /Users/yangyang/.python-eggs is writable by group/others and vulnerable to attack when used with get_resource_filename. Consider a more secure location (set with .set_extraction_path or the PYTHON_EGG_CACHE environment variable).
+  warnings.warn(msg, UserWarning)
+Traceback (most recent call last):
+  File "/Library/Python/2.7/site-packages/paste/deploy/loadwsgi.py", line 247, in loadapp
+    return loadobj(APP, uri, name=name, **kw)
+  File "/Library/Python/2.7/site-packages/paste/deploy/loadwsgi.py", line 272, in loadobj
+    return context.create()
+  File "/Library/Python/2.7/site-packages/paste/deploy/loadwsgi.py", line 710, in create
+    return self.object_type.invoke(self)
+  File "/Library/Python/2.7/site-packages/paste/deploy/loadwsgi.py", line 146, in invoke
+    return fix_call(context.object, context.global_conf, **context.local_conf)
+  File "/Library/Python/2.7/site-packages/paste/deploy/util.py", line 55, in fix_call
+    val = callable(*args, **kw)
+  File "./myproject/__init__.py", line 9, in main
+    config = Configurator(settings=settings)
+  File "/Library/Python/2.7/site-packages/pyramid/config/__init__.py", line 301, in __init__
+    exceptionresponse_view=exceptionresponse_view,
+  File "/Library/Python/2.7/site-packages/pyramid/config/__init__.py", line 412, in setup_registry
+    self.include(inc)
+  File "/Library/Python/2.7/site-packages/pyramid/config/__init__.py", line 755, in include
+    c(configurator)
+  File "/Users/yangyang/workspace/wfxadmin/scheduler2/daily2.py", line 16, in includeme
+    start_scheduler(config)
+  File "/Users/yangyang/workspace/wfxadmin/scheduler2/daily2.py", line 83, in start_scheduler
+    if settings['daily.scheduler'] == 'true':
+KeyError: 'daily.scheduler'
+*** Starting uWSGI 2.0.11.2 (64bit) on [Thu Nov 12 14:48:14 2015] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.1.76) on 12 November 2015 10:12:22
+os: Darwin-15.0.0 Darwin Kernel Version 15.0.0: Sat Sep 19 15:53:46 PDT 2015; root:xnu-3247.10.11~1/RELEASE_X86_64
+nodename: yangyangdeMacBook-Pro.local
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /Users/yangyang/workspace_my/myproject
+writing pidfile to ./logs/pid_5000.pid
+detected binary path: /Users/yangyang/.virtualenvs/env_pyramid/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/uwsgi_myproject.sock fd 3
+Python version: 3.4.3 (v3.4.3:9b73f1c3e601, Feb 23 2015, 02:52:03)  [GCC 4.2.1 (Apple Inc. build 5666) (dot 3)]
+Python main interpreter initialized at 0x7f9c13e00180
+python threads support enabled
+your server socket listen backlog is limited to 256 connections
+your mercy for graceful operations on workers is 60 seconds
+setting request body buffering size to 5120000 bytes
+mapped 103491520 bytes (101065 KB) for 16 cores
+*** Operational MODE: preforking+threaded ***
+Loading paste environment: config:/Users/yangyang/workspace_my/myproject/production.ini
+ImportError: No module named 'paste'
+ImportError: No module named 'paste'
+*** Starting uWSGI 2.0.11.2 (64bit) on [Thu Nov 12 14:49:55 2015] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.1.76) on 12 November 2015 10:12:22
+os: Darwin-15.0.0 Darwin Kernel Version 15.0.0: Sat Sep 19 15:53:46 PDT 2015; root:xnu-3247.10.11~1/RELEASE_X86_64
+nodename: yangyangdeMacBook-Pro.local
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /Users/yangyang/workspace_my/myproject
+writing pidfile to ./logs/pid_5000.pid
+detected binary path: /Users/yangyang/.virtualenvs/env_pyramid/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/uwsgi_myproject.sock fd 3
+Python version: 3.4.3 (v3.4.3:9b73f1c3e601, Feb 23 2015, 02:52:03)  [GCC 4.2.1 (Apple Inc. build 5666) (dot 3)]
+Python main interpreter initialized at 0x7f92ca6002b0
+python threads support enabled
+your server socket listen backlog is limited to 256 connections
+your mercy for graceful operations on workers is 60 seconds
+setting request body buffering size to 5120000 bytes
+mapped 103491520 bytes (101065 KB) for 16 cores
+*** Operational MODE: preforking+threaded ***
+Loading paste environment: config:/Users/yangyang/workspace_my/myproject/production.ini
+ImportError: No module named 'paste'
+ImportError: No module named 'paste'
+*** Starting uWSGI 2.0.11.2 (64bit) on [Thu Nov 12 14:54:33 2015] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.1.76) on 12 November 2015 10:12:22
+os: Darwin-15.0.0 Darwin Kernel Version 15.0.0: Sat Sep 19 15:53:46 PDT 2015; root:xnu-3247.10.11~1/RELEASE_X86_64
+nodename: yangyangdeMacBook-Pro.local
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /Users/yangyang/workspace_my/myproject
+writing pidfile to ./logs/pid_5000.pid
+detected binary path: /Users/yangyang/.virtualenvs/env_pyramid/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/uwsgi_myproject.sock fd 3
+Python version: 3.4.3 (v3.4.3:9b73f1c3e601, Feb 23 2015, 02:52:03)  [GCC 4.2.1 (Apple Inc. build 5666) (dot 3)]
+Python main interpreter initialized at 0x7fee31500850
+python threads support enabled
+your server socket listen backlog is limited to 256 connections
+your mercy for graceful operations on workers is 60 seconds
+setting request body buffering size to 5120000 bytes
+mapped 103491520 bytes (101065 KB) for 16 cores
+*** Operational MODE: preforking+threaded ***
+Loading paste environment: config:/Users/yangyang/workspace_my/myproject/production.ini
+ImportError: No module named 'paste.script'
+ImportError: No module named 'paste.deploy'
+*** Starting uWSGI 2.0.11.2 (64bit) on [Thu Nov 12 14:55:25 2015] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.1.76) on 12 November 2015 10:12:22
+os: Darwin-15.0.0 Darwin Kernel Version 15.0.0: Sat Sep 19 15:53:46 PDT 2015; root:xnu-3247.10.11~1/RELEASE_X86_64
+nodename: yangyangdeMacBook-Pro.local
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /Users/yangyang/workspace_my/myproject
+writing pidfile to ./logs/pid_5000.pid
+detected binary path: /Users/yangyang/.virtualenvs/env_pyramid/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/uwsgi_myproject.sock fd 3
+Python version: 3.4.3 (v3.4.3:9b73f1c3e601, Feb 23 2015, 02:52:03)  [GCC 4.2.1 (Apple Inc. build 5666) (dot 3)]
+Python main interpreter initialized at 0x7fc8abc01d90
+python threads support enabled
+your server socket listen backlog is limited to 256 connections
+your mercy for graceful operations on workers is 60 seconds
+setting request body buffering size to 5120000 bytes
+mapped 103491520 bytes (101065 KB) for 16 cores
+*** Operational MODE: preforking+threaded ***
+Loading paste environment: config:/Users/yangyang/workspace_my/myproject/production.ini
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/paste/deploy/loadwsgi.py", line 247, in loadapp
+    return loadobj(APP, uri, name=name, **kw)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/paste/deploy/loadwsgi.py", line 271, in loadobj
+    global_conf=global_conf)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/paste/deploy/loadwsgi.py", line 296, in loadcontext
+    global_conf=global_conf)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/paste/deploy/loadwsgi.py", line 320, in _loadconfig
+    return loader.get_context(object_type, name, global_conf)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/paste/deploy/loadwsgi.py", line 454, in get_context
+    section)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/paste/deploy/loadwsgi.py", line 476, in _context_from_use
+    object_type, name=use, global_conf=global_conf)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/paste/deploy/loadwsgi.py", line 406, in get_context
+    global_conf=global_conf)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/paste/deploy/loadwsgi.py", line 296, in loadcontext
+    global_conf=global_conf)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/paste/deploy/loadwsgi.py", line 328, in _loadegg
+    return loader.get_context(object_type, name, global_conf)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/paste/deploy/loadwsgi.py", line 620, in get_context
+    object_type, name=name)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/paste/deploy/loadwsgi.py", line 640, in find_egg_entry_point
+    pkg_resources.require(self.spec)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/pkg_resources/__init__.py", line 918, in require
+    needed = self.resolve(parse_requirements(requirements))
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/pkg_resources/__init__.py", line 805, in resolve
+    raise DistributionNotFound(req)
+pkg_resources.DistributionNotFound: pyramid-jinja2
+*** Starting uWSGI 2.0.11.2 (64bit) on [Thu Nov 12 14:57:06 2015] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.1.76) on 12 November 2015 10:12:22
+os: Darwin-15.0.0 Darwin Kernel Version 15.0.0: Sat Sep 19 15:53:46 PDT 2015; root:xnu-3247.10.11~1/RELEASE_X86_64
+nodename: yangyangdeMacBook-Pro.local
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /Users/yangyang/workspace_my/myproject
+writing pidfile to ./logs/pid_5000.pid
+detected binary path: /Users/yangyang/.virtualenvs/env_pyramid/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/uwsgi_myproject.sock fd 3
+Python version: 3.4.3 (v3.4.3:9b73f1c3e601, Feb 23 2015, 02:52:03)  [GCC 4.2.1 (Apple Inc. build 5666) (dot 3)]
+Python main interpreter initialized at 0x7f99e1d00b50
+python threads support enabled
+your server socket listen backlog is limited to 256 connections
+your mercy for graceful operations on workers is 60 seconds
+setting request body buffering size to 5120000 bytes
+mapped 103491520 bytes (101065 KB) for 16 cores
+*** Operational MODE: preforking+threaded ***
+Loading paste environment: config:/Users/yangyang/workspace_my/myproject/production.ini
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/paste/deploy/loadwsgi.py", line 247, in loadapp
+    return loadobj(APP, uri, name=name, **kw)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/paste/deploy/loadwsgi.py", line 271, in loadobj
+    global_conf=global_conf)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/paste/deploy/loadwsgi.py", line 296, in loadcontext
+    global_conf=global_conf)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/paste/deploy/loadwsgi.py", line 320, in _loadconfig
+    return loader.get_context(object_type, name, global_conf)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/paste/deploy/loadwsgi.py", line 454, in get_context
+    section)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/paste/deploy/loadwsgi.py", line 476, in _context_from_use
+    object_type, name=use, global_conf=global_conf)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/paste/deploy/loadwsgi.py", line 406, in get_context
+    global_conf=global_conf)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/paste/deploy/loadwsgi.py", line 296, in loadcontext
+    global_conf=global_conf)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/paste/deploy/loadwsgi.py", line 328, in _loadegg
+    return loader.get_context(object_type, name, global_conf)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/paste/deploy/loadwsgi.py", line 620, in get_context
+    object_type, name=name)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/paste/deploy/loadwsgi.py", line 640, in find_egg_entry_point
+    pkg_resources.require(self.spec)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/pkg_resources/__init__.py", line 918, in require
+    needed = self.resolve(parse_requirements(requirements))
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/pkg_resources/__init__.py", line 805, in resolve
+    raise DistributionNotFound(req)
+pkg_resources.DistributionNotFound: waitress
+*** Starting uWSGI 2.0.11.2 (64bit) on [Thu Nov 12 14:58:10 2015] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.1.76) on 12 November 2015 10:12:22
+os: Darwin-15.0.0 Darwin Kernel Version 15.0.0: Sat Sep 19 15:53:46 PDT 2015; root:xnu-3247.10.11~1/RELEASE_X86_64
+nodename: yangyangdeMacBook-Pro.local
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /Users/yangyang/workspace_my/myproject
+writing pidfile to ./logs/pid_5000.pid
+detected binary path: /Users/yangyang/.virtualenvs/env_pyramid/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+error removing unix socket, unlink(): Permission denied [core/socket.c line 198]
+bind(): Address already in use [core/socket.c line 230]
+*** Starting uWSGI 2.0.11.2 (64bit) on [Thu Nov 12 14:58:35 2015] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.1.76) on 12 November 2015 10:12:22
+os: Darwin-15.0.0 Darwin Kernel Version 15.0.0: Sat Sep 19 15:53:46 PDT 2015; root:xnu-3247.10.11~1/RELEASE_X86_64
+nodename: yangyangdeMacBook-Pro.local
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /Users/yangyang/workspace_my/myproject
+writing pidfile to ./logs/pid_5000.pid
+detected binary path: /Users/yangyang/.virtualenvs/env_pyramid/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/uwsgi_myproject.sock fd 3
+Python version: 3.4.3 (v3.4.3:9b73f1c3e601, Feb 23 2015, 02:52:03)  [GCC 4.2.1 (Apple Inc. build 5666) (dot 3)]
+Python main interpreter initialized at 0x7fdac9f000f0
+python threads support enabled
+your server socket listen backlog is limited to 256 connections
+your mercy for graceful operations on workers is 60 seconds
+setting request body buffering size to 5120000 bytes
+mapped 103491520 bytes (101065 KB) for 16 cores
+*** Operational MODE: preforking+threaded ***
+Loading paste environment: config:/Users/yangyang/workspace_my/myproject/production.ini
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/paste/deploy/loadwsgi.py", line 247, in loadapp
+    return loadobj(APP, uri, name=name, **kw)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/paste/deploy/loadwsgi.py", line 271, in loadobj
+    global_conf=global_conf)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/paste/deploy/loadwsgi.py", line 296, in loadcontext
+    global_conf=global_conf)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/paste/deploy/loadwsgi.py", line 320, in _loadconfig
+    return loader.get_context(object_type, name, global_conf)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/paste/deploy/loadwsgi.py", line 454, in get_context
+    section)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/paste/deploy/loadwsgi.py", line 476, in _context_from_use
+    object_type, name=use, global_conf=global_conf)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/paste/deploy/loadwsgi.py", line 406, in get_context
+    global_conf=global_conf)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/paste/deploy/loadwsgi.py", line 296, in loadcontext
+    global_conf=global_conf)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/paste/deploy/loadwsgi.py", line 328, in _loadegg
+    return loader.get_context(object_type, name, global_conf)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/paste/deploy/loadwsgi.py", line 620, in get_context
+    object_type, name=name)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/paste/deploy/loadwsgi.py", line 640, in find_egg_entry_point
+    pkg_resources.require(self.spec)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/pkg_resources/__init__.py", line 918, in require
+    needed = self.resolve(parse_requirements(requirements))
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/pkg_resources/__init__.py", line 805, in resolve
+    raise DistributionNotFound(req)
+pkg_resources.DistributionNotFound: pyramid-debugtoolbar
+*** Starting uWSGI 2.0.11.2 (64bit) on [Thu Nov 12 15:00:49 2015] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.1.76) on 12 November 2015 10:12:22
+os: Darwin-15.0.0 Darwin Kernel Version 15.0.0: Sat Sep 19 15:53:46 PDT 2015; root:xnu-3247.10.11~1/RELEASE_X86_64
+nodename: yangyangdeMacBook-Pro.local
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /Users/yangyang/workspace_my/myproject
+writing pidfile to ./logs/pid_5000.pid
+detected binary path: /Users/yangyang/.virtualenvs/env_pyramid/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/uwsgi_myproject.sock fd 3
+Python version: 3.4.3 (v3.4.3:9b73f1c3e601, Feb 23 2015, 02:52:03)  [GCC 4.2.1 (Apple Inc. build 5666) (dot 3)]
+Python main interpreter initialized at 0x7fc273d00150
+python threads support enabled
+your server socket listen backlog is limited to 256 connections
+your mercy for graceful operations on workers is 60 seconds
+setting request body buffering size to 5120000 bytes
+mapped 103491520 bytes (101065 KB) for 16 cores
+*** Operational MODE: preforking+threaded ***
+Loading paste environment: config:/Users/yangyang/workspace_my/myproject/production.ini
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/paste/deploy/loadwsgi.py", line 247, in loadapp
+    return loadobj(APP, uri, name=name, **kw)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/paste/deploy/loadwsgi.py", line 271, in loadobj
+    global_conf=global_conf)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/paste/deploy/loadwsgi.py", line 296, in loadcontext
+    global_conf=global_conf)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/paste/deploy/loadwsgi.py", line 320, in _loadconfig
+    return loader.get_context(object_type, name, global_conf)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/paste/deploy/loadwsgi.py", line 454, in get_context
+    section)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/paste/deploy/loadwsgi.py", line 476, in _context_from_use
+    object_type, name=use, global_conf=global_conf)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/paste/deploy/loadwsgi.py", line 406, in get_context
+    global_conf=global_conf)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/paste/deploy/loadwsgi.py", line 296, in loadcontext
+    global_conf=global_conf)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/paste/deploy/loadwsgi.py", line 328, in _loadegg
+    return loader.get_context(object_type, name, global_conf)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/paste/deploy/loadwsgi.py", line 620, in get_context
+    object_type, name=name)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/paste/deploy/loadwsgi.py", line 640, in find_egg_entry_point
+    pkg_resources.require(self.spec)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/pkg_resources/__init__.py", line 918, in require
+    needed = self.resolve(parse_requirements(requirements))
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/pkg_resources/__init__.py", line 805, in resolve
+    raise DistributionNotFound(req)
+pkg_resources.DistributionNotFound: pyramid-debugtoolbar
+*** Starting uWSGI 2.0.11.2 (64bit) on [Thu Nov 12 15:00:52 2015] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.1.76) on 12 November 2015 10:12:22
+os: Darwin-15.0.0 Darwin Kernel Version 15.0.0: Sat Sep 19 15:53:46 PDT 2015; root:xnu-3247.10.11~1/RELEASE_X86_64
+nodename: yangyangdeMacBook-Pro.local
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /Users/yangyang/workspace_my/myproject
+writing pidfile to ./logs/pid_5000.pid
+detected binary path: /Users/yangyang/.virtualenvs/env_pyramid/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/uwsgi_myproject.sock fd 3
+Python version: 3.4.3 (v3.4.3:9b73f1c3e601, Feb 23 2015, 02:52:03)  [GCC 4.2.1 (Apple Inc. build 5666) (dot 3)]
+Python main interpreter initialized at 0x7fd278c056b0
+python threads support enabled
+your server socket listen backlog is limited to 256 connections
+your mercy for graceful operations on workers is 60 seconds
+setting request body buffering size to 5120000 bytes
+mapped 103491520 bytes (101065 KB) for 16 cores
+*** Operational MODE: preforking+threaded ***
+Loading paste environment: config:/Users/yangyang/workspace_my/myproject/production.ini
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/paste/deploy/loadwsgi.py", line 247, in loadapp
+    return loadobj(APP, uri, name=name, **kw)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/paste/deploy/loadwsgi.py", line 271, in loadobj
+    global_conf=global_conf)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/paste/deploy/loadwsgi.py", line 296, in loadcontext
+    global_conf=global_conf)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/paste/deploy/loadwsgi.py", line 320, in _loadconfig
+    return loader.get_context(object_type, name, global_conf)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/paste/deploy/loadwsgi.py", line 454, in get_context
+    section)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/paste/deploy/loadwsgi.py", line 476, in _context_from_use
+    object_type, name=use, global_conf=global_conf)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/paste/deploy/loadwsgi.py", line 406, in get_context
+    global_conf=global_conf)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/paste/deploy/loadwsgi.py", line 296, in loadcontext
+    global_conf=global_conf)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/paste/deploy/loadwsgi.py", line 328, in _loadegg
+    return loader.get_context(object_type, name, global_conf)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/paste/deploy/loadwsgi.py", line 620, in get_context
+    object_type, name=name)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/paste/deploy/loadwsgi.py", line 640, in find_egg_entry_point
+    pkg_resources.require(self.spec)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/pkg_resources/__init__.py", line 918, in require
+    needed = self.resolve(parse_requirements(requirements))
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/pkg_resources/__init__.py", line 805, in resolve
+    raise DistributionNotFound(req)
+pkg_resources.DistributionNotFound: pyramid-debugtoolbar
+*** Starting uWSGI 2.0.11.2 (64bit) on [Thu Nov 12 15:01:58 2015] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.1.76) on 12 November 2015 10:12:22
+os: Darwin-15.0.0 Darwin Kernel Version 15.0.0: Sat Sep 19 15:53:46 PDT 2015; root:xnu-3247.10.11~1/RELEASE_X86_64
+nodename: yangyangdeMacBook-Pro.local
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /Users/yangyang/workspace_my/myproject
+writing pidfile to ./logs/pid_5000.pid
+detected binary path: /Users/yangyang/.virtualenvs/env_pyramid/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/uwsgi_myproject.sock fd 3
+Python version: 3.4.3 (v3.4.3:9b73f1c3e601, Feb 23 2015, 02:52:03)  [GCC 4.2.1 (Apple Inc. build 5666) (dot 3)]
+Python main interpreter initialized at 0x7f8503c03ab0
+python threads support enabled
+your server socket listen backlog is limited to 256 connections
+your mercy for graceful operations on workers is 60 seconds
+setting request body buffering size to 5120000 bytes
+mapped 103491520 bytes (101065 KB) for 16 cores
+*** Operational MODE: preforking+threaded ***
+Loading paste environment: config:/Users/yangyang/workspace_my/myproject/production.ini
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/paste/deploy/loadwsgi.py", line 247, in loadapp
+    return loadobj(APP, uri, name=name, **kw)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/paste/deploy/loadwsgi.py", line 271, in loadobj
+    global_conf=global_conf)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/paste/deploy/loadwsgi.py", line 296, in loadcontext
+    global_conf=global_conf)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/paste/deploy/loadwsgi.py", line 320, in _loadconfig
+    return loader.get_context(object_type, name, global_conf)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/paste/deploy/loadwsgi.py", line 454, in get_context
+    section)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/paste/deploy/loadwsgi.py", line 476, in _context_from_use
+    object_type, name=use, global_conf=global_conf)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/paste/deploy/loadwsgi.py", line 406, in get_context
+    global_conf=global_conf)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/paste/deploy/loadwsgi.py", line 296, in loadcontext
+    global_conf=global_conf)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/paste/deploy/loadwsgi.py", line 328, in _loadegg
+    return loader.get_context(object_type, name, global_conf)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/paste/deploy/loadwsgi.py", line 620, in get_context
+    object_type, name=name)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/paste/deploy/loadwsgi.py", line 640, in find_egg_entry_point
+    pkg_resources.require(self.spec)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/pkg_resources/__init__.py", line 918, in require
+    needed = self.resolve(parse_requirements(requirements))
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/pkg_resources/__init__.py", line 805, in resolve
+    raise DistributionNotFound(req)
+pkg_resources.DistributionNotFound: pyramid-chameleon
+*** Starting uWSGI 2.0.11.2 (64bit) on [Thu Nov 12 15:02:31 2015] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.1.76) on 12 November 2015 10:12:22
+os: Darwin-15.0.0 Darwin Kernel Version 15.0.0: Sat Sep 19 15:53:46 PDT 2015; root:xnu-3247.10.11~1/RELEASE_X86_64
+nodename: yangyangdeMacBook-Pro.local
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /Users/yangyang/workspace_my/myproject
+writing pidfile to ./logs/pid_5000.pid
+detected binary path: /Users/yangyang/.virtualenvs/env_pyramid/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+error removing unix socket, unlink(): Permission denied [core/socket.c line 198]
+bind(): Address already in use [core/socket.c line 230]
+*** Starting uWSGI 2.0.11.2 (64bit) on [Thu Nov 12 15:03:33 2015] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.1.76) on 12 November 2015 10:12:22
+os: Darwin-15.0.0 Darwin Kernel Version 15.0.0: Sat Sep 19 15:53:46 PDT 2015; root:xnu-3247.10.11~1/RELEASE_X86_64
+nodename: yangyangdeMacBook-Pro.local
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /Users/yangyang/workspace_my/myproject
+writing pidfile to ./logs/pid_5000.pid
+detected binary path: /Users/yangyang/.virtualenvs/env_pyramid/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/uwsgi_myproject.sock fd 3
+Python version: 3.4.3 (v3.4.3:9b73f1c3e601, Feb 23 2015, 02:52:03)  [GCC 4.2.1 (Apple Inc. build 5666) (dot 3)]
+Python main interpreter initialized at 0x7fe79ac01c40
+python threads support enabled
+your server socket listen backlog is limited to 256 connections
+your mercy for graceful operations on workers is 60 seconds
+setting request body buffering size to 5120000 bytes
+mapped 103491520 bytes (101065 KB) for 16 cores
+*** Operational MODE: preforking+threaded ***
+Loading paste environment: config:/Users/yangyang/workspace_my/myproject/production.ini
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/paste/deploy/loadwsgi.py", line 247, in loadapp
+    return loadobj(APP, uri, name=name, **kw)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/paste/deploy/loadwsgi.py", line 272, in loadobj
+    return context.create()
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/paste/deploy/loadwsgi.py", line 710, in create
+    return self.object_type.invoke(self)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/paste/deploy/loadwsgi.py", line 146, in invoke
+    return fix_call(context.object, context.global_conf, **context.local_conf)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/paste/deploy/util.py", line 55, in fix_call
+    val = callable(*args, **kw)
+  File "./myproject/__init__.py", line 9, in main
+    config = Configurator(settings=settings)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/pyramid/config/__init__.py", line 301, in __init__
+    exceptionresponse_view=exceptionresponse_view,
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/pyramid/config/__init__.py", line 412, in setup_registry
+    self.include(inc)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/pyramid/config/__init__.py", line 727, in include
+    c = self.maybe_dotted(callable)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/pyramid/config/__init__.py", line 825, in maybe_dotted
+    return self.name_resolver.maybe_resolve(dotted)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/pyramid/path.py", line 320, in maybe_resolve
+    return self._resolve(dotted, package)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/pyramid/path.py", line 327, in _resolve
+    return self._zope_dottedname_style(dotted, package)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/pyramid/path.py", line 376, in _zope_dottedname_style
+    found = __import__(used)
+ImportError: No module named 'pyramid_tm'
+*** Starting uWSGI 2.0.11.2 (64bit) on [Thu Nov 12 15:04:49 2015] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.1.76) on 12 November 2015 10:12:22
+os: Darwin-15.0.0 Darwin Kernel Version 15.0.0: Sat Sep 19 15:53:46 PDT 2015; root:xnu-3247.10.11~1/RELEASE_X86_64
+nodename: yangyangdeMacBook-Pro.local
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /Users/yangyang/workspace_my/myproject
+writing pidfile to ./logs/pid_5000.pid
+detected binary path: /Users/yangyang/.virtualenvs/env_pyramid/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/uwsgi_myproject.sock fd 3
+Python version: 3.4.3 (v3.4.3:9b73f1c3e601, Feb 23 2015, 02:52:03)  [GCC 4.2.1 (Apple Inc. build 5666) (dot 3)]
+Python main interpreter initialized at 0x7fb472500810
+python threads support enabled
+your server socket listen backlog is limited to 256 connections
+your mercy for graceful operations on workers is 60 seconds
+setting request body buffering size to 5120000 bytes
+mapped 103491520 bytes (101065 KB) for 16 cores
+*** Operational MODE: preforking+threaded ***
+Loading paste environment: config:/Users/yangyang/workspace_my/myproject/production.ini
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/paste/deploy/loadwsgi.py", line 247, in loadapp
+    return loadobj(APP, uri, name=name, **kw)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/paste/deploy/loadwsgi.py", line 272, in loadobj
+    return context.create()
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/paste/deploy/loadwsgi.py", line 710, in create
+    return self.object_type.invoke(self)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/paste/deploy/loadwsgi.py", line 146, in invoke
+    return fix_call(context.object, context.global_conf, **context.local_conf)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/paste/deploy/util.py", line 55, in fix_call
+    val = callable(*args, **kw)
+  File "./myproject/__init__.py", line 9, in main
+    config = Configurator(settings=settings)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/pyramid/config/__init__.py", line 301, in __init__
+    exceptionresponse_view=exceptionresponse_view,
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/pyramid/config/__init__.py", line 412, in setup_registry
+    self.include(inc)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/pyramid/config/__init__.py", line 727, in include
+    c = self.maybe_dotted(callable)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/pyramid/config/__init__.py", line 825, in maybe_dotted
+    return self.name_resolver.maybe_resolve(dotted)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/pyramid/path.py", line 320, in maybe_resolve
+    return self._resolve(dotted, package)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/pyramid/path.py", line 327, in _resolve
+    return self._zope_dottedname_style(dotted, package)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/pyramid/path.py", line 376, in _zope_dottedname_style
+    found = __import__(used)
+ImportError: No module named 'pyramid_beaker'
+*** Starting uWSGI 2.0.11.2 (64bit) on [Thu Nov 12 15:05:18 2015] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.1.76) on 12 November 2015 10:12:22
+os: Darwin-15.0.0 Darwin Kernel Version 15.0.0: Sat Sep 19 15:53:46 PDT 2015; root:xnu-3247.10.11~1/RELEASE_X86_64
+nodename: yangyangdeMacBook-Pro.local
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /Users/yangyang/workspace_my/myproject
+writing pidfile to ./logs/pid_5000.pid
+detected binary path: /Users/yangyang/.virtualenvs/env_pyramid/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/uwsgi_myproject.sock fd 3
+Python version: 3.4.3 (v3.4.3:9b73f1c3e601, Feb 23 2015, 02:52:03)  [GCC 4.2.1 (Apple Inc. build 5666) (dot 3)]
+Python main interpreter initialized at 0x7f9260500490
+python threads support enabled
+your server socket listen backlog is limited to 256 connections
+your mercy for graceful operations on workers is 60 seconds
+setting request body buffering size to 5120000 bytes
+mapped 103491520 bytes (101065 KB) for 16 cores
+*** Operational MODE: preforking+threaded ***
+Loading paste environment: config:/Users/yangyang/workspace_my/myproject/production.ini
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/paste/deploy/loadwsgi.py", line 247, in loadapp
+    return loadobj(APP, uri, name=name, **kw)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/paste/deploy/loadwsgi.py", line 272, in loadobj
+    return context.create()
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/paste/deploy/loadwsgi.py", line 710, in create
+    return self.object_type.invoke(self)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/paste/deploy/loadwsgi.py", line 146, in invoke
+    return fix_call(context.object, context.global_conf, **context.local_conf)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/paste/deploy/util.py", line 55, in fix_call
+    val = callable(*args, **kw)
+  File "./myproject/__init__.py", line 9, in main
+    config = Configurator(settings=settings)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/pyramid/config/__init__.py", line 301, in __init__
+    exceptionresponse_view=exceptionresponse_view,
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/pyramid/config/__init__.py", line 412, in setup_registry
+    self.include(inc)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/pyramid/config/__init__.py", line 727, in include
+    c = self.maybe_dotted(callable)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/pyramid/config/__init__.py", line 825, in maybe_dotted
+    return self.name_resolver.maybe_resolve(dotted)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/pyramid/path.py", line 320, in maybe_resolve
+    return self._resolve(dotted, package)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/pyramid/path.py", line 327, in _resolve
+    return self._zope_dottedname_style(dotted, package)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/pyramid/path.py", line 376, in _zope_dottedname_style
+    found = __import__(used)
+ImportError: No module named 'pyramid_exclog'
+*** Starting uWSGI 2.0.11.2 (64bit) on [Thu Nov 12 15:06:17 2015] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.1.76) on 12 November 2015 10:12:22
+os: Darwin-15.0.0 Darwin Kernel Version 15.0.0: Sat Sep 19 15:53:46 PDT 2015; root:xnu-3247.10.11~1/RELEASE_X86_64
+nodename: yangyangdeMacBook-Pro.local
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /Users/yangyang/workspace_my/myproject
+writing pidfile to ./logs/pid_5000.pid
+detected binary path: /Users/yangyang/.virtualenvs/env_pyramid/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/uwsgi_myproject.sock fd 3
+Python version: 3.4.3 (v3.4.3:9b73f1c3e601, Feb 23 2015, 02:52:03)  [GCC 4.2.1 (Apple Inc. build 5666) (dot 3)]
+Python main interpreter initialized at 0x7fd341d00620
+python threads support enabled
+your server socket listen backlog is limited to 256 connections
+your mercy for graceful operations on workers is 60 seconds
+setting request body buffering size to 5120000 bytes
+mapped 103491520 bytes (101065 KB) for 16 cores
+*** Operational MODE: preforking+threaded ***
+Loading paste environment: config:/Users/yangyang/workspace_my/myproject/production.ini
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/paste/deploy/loadwsgi.py", line 247, in loadapp
+    return loadobj(APP, uri, name=name, **kw)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/paste/deploy/loadwsgi.py", line 272, in loadobj
+    return context.create()
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/paste/deploy/loadwsgi.py", line 710, in create
+    return self.object_type.invoke(self)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/paste/deploy/loadwsgi.py", line 146, in invoke
+    return fix_call(context.object, context.global_conf, **context.local_conf)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/paste/deploy/util.py", line 55, in fix_call
+    val = callable(*args, **kw)
+  File "./myproject/__init__.py", line 9, in main
+    config = Configurator(settings=settings)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/pyramid/config/__init__.py", line 301, in __init__
+    exceptionresponse_view=exceptionresponse_view,
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/pyramid/config/__init__.py", line 412, in setup_registry
+    self.include(inc)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/pyramid/config/__init__.py", line 727, in include
+    c = self.maybe_dotted(callable)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/pyramid/config/__init__.py", line 825, in maybe_dotted
+    return self.name_resolver.maybe_resolve(dotted)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/pyramid/path.py", line 320, in maybe_resolve
+    return self._resolve(dotted, package)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/pyramid/path.py", line 327, in _resolve
+    return self._zope_dottedname_style(dotted, package)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/pyramid/path.py", line 376, in _zope_dottedname_style
+    found = __import__(used)
+ImportError: No module named 'pyramid_celery'
+*** Starting uWSGI 2.0.11.2 (64bit) on [Thu Nov 12 15:09:06 2015] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.1.76) on 12 November 2015 10:12:22
+os: Darwin-15.0.0 Darwin Kernel Version 15.0.0: Sat Sep 19 15:53:46 PDT 2015; root:xnu-3247.10.11~1/RELEASE_X86_64
+nodename: yangyangdeMacBook-Pro.local
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /Users/yangyang/workspace_my/myproject
+writing pidfile to ./logs/pid_5000.pid
+detected binary path: /Users/yangyang/.virtualenvs/env_pyramid/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/uwsgi_myproject.sock fd 3
+Python version: 3.4.3 (v3.4.3:9b73f1c3e601, Feb 23 2015, 02:52:03)  [GCC 4.2.1 (Apple Inc. build 5666) (dot 3)]
+Python main interpreter initialized at 0x7f9218e00f30
+python threads support enabled
+your server socket listen backlog is limited to 256 connections
+your mercy for graceful operations on workers is 60 seconds
+setting request body buffering size to 5120000 bytes
+mapped 103491520 bytes (101065 KB) for 16 cores
+*** Operational MODE: preforking+threaded ***
+Loading paste environment: config:/Users/yangyang/workspace_my/myproject/production.ini
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/paste/deploy/loadwsgi.py", line 247, in loadapp
+    return loadobj(APP, uri, name=name, **kw)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/paste/deploy/loadwsgi.py", line 272, in loadobj
+    return context.create()
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/paste/deploy/loadwsgi.py", line 710, in create
+    return self.object_type.invoke(self)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/paste/deploy/loadwsgi.py", line 146, in invoke
+    return fix_call(context.object, context.global_conf, **context.local_conf)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/paste/deploy/util.py", line 55, in fix_call
+    val = callable(*args, **kw)
+  File "./myproject/__init__.py", line 9, in main
+    config = Configurator(settings=settings)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/pyramid/config/__init__.py", line 301, in __init__
+    exceptionresponse_view=exceptionresponse_view,
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/pyramid/config/__init__.py", line 412, in setup_registry
+    self.include(inc)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/pyramid/config/__init__.py", line 727, in include
+    c = self.maybe_dotted(callable)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/pyramid/config/__init__.py", line 825, in maybe_dotted
+    return self.name_resolver.maybe_resolve(dotted)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/pyramid/path.py", line 320, in maybe_resolve
+    return self._resolve(dotted, package)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/pyramid/path.py", line 327, in _resolve
+    return self._zope_dottedname_style(dotted, package)
+  File "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/pyramid/path.py", line 376, in _zope_dottedname_style
+    found = __import__(used)
+ImportError: No module named 'scheduler2'
+*** Starting uWSGI 2.0.11.2 (64bit) on [Thu Nov 12 15:10:36 2015] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.1.76) on 12 November 2015 10:12:22
+os: Darwin-15.0.0 Darwin Kernel Version 15.0.0: Sat Sep 19 15:53:46 PDT 2015; root:xnu-3247.10.11~1/RELEASE_X86_64
+nodename: yangyangdeMacBook-Pro.local
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /Users/yangyang/workspace_my/myproject
+writing pidfile to ./logs/pid_5000.pid
+detected binary path: /Users/yangyang/.virtualenvs/env_pyramid/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/uwsgi_myproject.sock fd 3
+Python version: 3.4.3 (v3.4.3:9b73f1c3e601, Feb 23 2015, 02:52:03)  [GCC 4.2.1 (Apple Inc. build 5666) (dot 3)]
+Python main interpreter initialized at 0x7fa1c9600ea0
+python threads support enabled
+your server socket listen backlog is limited to 256 connections
+your mercy for graceful operations on workers is 60 seconds
+setting request body buffering size to 5120000 bytes
+mapped 103491520 bytes (101065 KB) for 16 cores
+*** Operational MODE: preforking+threaded ***
+Loading paste environment: config:/Users/yangyang/workspace_my/myproject/production.ini
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x7fa1c9600ea0 pid: 2157 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 2157)
+spawned uWSGI worker 1 (pid: 2161, cores: 4)
+spawned uWSGI worker 2 (pid: 2162, cores: 4)
+spawned uWSGI worker 3 (pid: 2163, cores: 4)
+spawned uWSGI worker 4 (pid: 2164, cores: 4)
+*** Starting uWSGI 2.0.11.2 (64bit) on [Thu Nov 12 15:13:54 2015] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.1.76) on 12 November 2015 10:12:22
+os: Darwin-15.0.0 Darwin Kernel Version 15.0.0: Sat Sep 19 15:53:46 PDT 2015; root:xnu-3247.10.11~1/RELEASE_X86_64
+nodename: yangyangdeMacBook-Pro.local
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /Users/yangyang/workspace_my/myproject
+writing pidfile to ./logs/pid_5000.pid
+detected binary path: /Users/yangyang/.virtualenvs/env_pyramid/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/uwsgi_myproject.sock fd 3
+Python version: 3.4.3 (v3.4.3:9b73f1c3e601, Feb 23 2015, 02:52:03)  [GCC 4.2.1 (Apple Inc. build 5666) (dot 3)]
+Python main interpreter initialized at 0x7fd129c09a00
+python threads support enabled
+your server socket listen backlog is limited to 256 connections
+your mercy for graceful operations on workers is 60 seconds
+setting request body buffering size to 5120000 bytes
+mapped 103491520 bytes (101065 KB) for 16 cores
+*** Operational MODE: preforking+threaded ***
+Loading paste environment: config:/Users/yangyang/workspace_my/myproject/production.ini
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x7fd129c09a00 pid: 2187 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 2187)
+spawned uWSGI worker 1 (pid: 2190, cores: 4)
+spawned uWSGI worker 2 (pid: 2191, cores: 4)
+spawned uWSGI worker 3 (pid: 2192, cores: 4)
+spawned uWSGI worker 4 (pid: 2193, cores: 4)
+*** Starting uWSGI 2.0.11.2 (64bit) on [Thu Nov 12 16:06:08 2015] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.1.76) on 12 November 2015 10:12:22
+os: Darwin-15.0.0 Darwin Kernel Version 15.0.0: Sat Sep 19 15:53:46 PDT 2015; root:xnu-3247.10.11~1/RELEASE_X86_64
+nodename: yangyangdeMacBook-Pro.local
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /Users/yangyang/workspace_my/myproject
+writing pidfile to ./logs/pid_5000.pid
+detected binary path: /Users/yangyang/.virtualenvs/env_pyramid/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /tmp/uwsgi_myproject.sock fd 3
+Python version: 3.4.3 (v3.4.3:9b73f1c3e601, Feb 23 2015, 02:52:03)  [GCC 4.2.1 (Apple Inc. build 5666) (dot 3)]
+Python main interpreter initialized at 0x7fe0e86002c0
+python threads support enabled
+your server socket listen backlog is limited to 256 connections
+your mercy for graceful operations on workers is 60 seconds
+setting request body buffering size to 5120000 bytes
+mapped 103491520 bytes (101065 KB) for 16 cores
+*** Operational MODE: preforking+threaded ***
+Loading paste environment: config:/Users/yangyang/workspace_my/myproject/production.ini
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x7fe0e86002c0 pid: 3036 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 3036)
+spawned uWSGI worker 1 (pid: 3039, cores: 4)
+spawned uWSGI worker 2 (pid: 3040, cores: 4)
+spawned uWSGI worker 3 (pid: 3041, cores: 4)
+spawned uWSGI worker 4 (pid: 3042, cores: 4)

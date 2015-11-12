@@ -5,5 +5,5 @@ __author__ = 'yangyang'
 
 @view_config(route_name='home.index', renderer='templates/index.html')
 def my_view(request):
-
+    print('sdsd')
     return {'project': 'myproject'}
