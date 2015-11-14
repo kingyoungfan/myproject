@@ -13,7 +13,7 @@ then
         echo "uwsgi is running!"
         exit 0
     else
-        uwsgi --ini-paste-logged /Users/yangyang/workspace_my/myproject/production.ini
+        uwsgi --ini-paste-logged production.ini
         echo "Start uwsgi service [OK]"
     fi
 
@@ -24,7 +24,7 @@ elif [ $1 = stop ];then
 elif [ $1 = restart ];then
     killall -9 uwsgi
     sleep 1s
-    uwsgi --ini-paste-logged /Users/yangyang/workspace_my/myproject/production.ini
+    uwsgi --ini-paste-logged production.ini
     echo "Restart uwsgi service [OK]"
 
 else

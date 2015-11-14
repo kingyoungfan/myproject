@@ -4,6 +4,7 @@ README.txt
 development.ini
 production.ini
 setup.py
+etc/__init__.py
 myproject/__init__.py
 myproject/routers.py
 myproject/test.py

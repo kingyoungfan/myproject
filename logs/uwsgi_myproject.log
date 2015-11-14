@@ -2609,3 +2609,11 @@ spawned uWSGI worker 1 (pid: 3039, cores: 4)
 spawned uWSGI worker 2 (pid: 3040, cores: 4)
 spawned uWSGI worker 3 (pid: 3041, cores: 4)
 spawned uWSGI worker 4 (pid: 3042, cores: 4)
+[pid: 3041|app: 0|req: 1/1] 127.0.0.1 () {44 vars in 870 bytes} [Sat Nov 14 11:29:10 2015] GET /m/535082b05e8edd210cf80a3b/index => generated 185 bytes in 74 msecs (HTTP/1.1 404) 2 headers in 87 bytes (1 switches on core 0)
+[pid: 3039|app: 0|req: 1/2] 127.0.0.1 () {46 vars in 812 bytes} [Sat Nov 14 11:29:10 2015] GET /favicon.ico => generated 164 bytes in 10 msecs (HTTP/1.1 404) 2 headers in 87 bytes (1 switches on core 1)
+Sat Nov 14 11:30:11 2015 - worker 1 (pid: 3039) is taking too much time to die...NO MERCY !!!
+Sat Nov 14 11:30:11 2015 - worker 3 (pid: 3041) is taking too much time to die...NO MERCY !!!
+DAMN ! worker 3 (pid: 3041) died, killed by signal 9 :( trying respawn ...
+Respawned uWSGI worker 3 (new pid: 12383)
+DAMN ! worker 1 (pid: 3039) died, killed by signal 9 :( trying respawn ...
+Respawned uWSGI worker 1 (new pid: 12384)
