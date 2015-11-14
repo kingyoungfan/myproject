@@ -27,8 +27,8 @@
       <file leaf-file-name="production.ini" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/production.ini">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.25795645">
-              <caret line="69" column="22" selection-start-line="69" selection-start-column="22" selection-end-line="69" selection-end-column="22" />
+            <state vertical-scroll-proportion="-0.9540582">
+              <caret line="53" column="12" selection-start-line="53" selection-start-column="12" selection-end-line="53" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -80,7 +80,7 @@
         <entry file="file://$PROJECT_DIR$/development.ini">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="29" column="3" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
+              <caret line="26" column="16" selection-start-line="0" selection-start-column="0" selection-end-line="59" selection-end-column="88" />
               <folding />
             </state>
           </provider>
@@ -699,14 +699,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/development.ini">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="29" column="3" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/start.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -723,10 +715,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/development.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="26" column="16" selection-start-line="0" selection-start-column="0" selection-end-line="59" selection-end-column="88" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/production.ini">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.25795645">
-          <caret line="69" column="22" selection-start-line="69" selection-start-column="22" selection-end-line="69" selection-end-column="22" />
+        <state vertical-scroll-proportion="-0.9540582">
+          <caret line="53" column="12" selection-start-line="53" selection-start-column="12" selection-end-line="53" selection-end-column="12" />
           <folding />
         </state>
       </provider>
