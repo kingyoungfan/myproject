@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12a1d73f-5019-4091-b211-2fb215b3bca6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/etc/uwsgi.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/etc/production.ini" afterPath="$PROJECT_DIR$/etc/production.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/etc/uwsgi.ini" afterPath="$PROJECT_DIR$/etc/uwsgi.ini" />
     </list>
     <ignored path="myproject.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -48,8 +47,8 @@
       <file leaf-file-name="uwsgi.ini" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/etc/uwsgi.ini">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.37059724">
-              <caret line="59" column="27" selection-start-line="59" selection-start-column="27" selection-end-line="59" selection-end-column="27" />
+            <state vertical-scroll-proportion="0.7748851">
+              <caret line="71" column="12" selection-start-line="71" selection-start-column="12" selection-end-line="71" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -745,8 +744,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/etc/uwsgi.ini">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.37059724">
-          <caret line="59" column="27" selection-start-line="59" selection-start-column="27" selection-end-line="59" selection-end-column="27" />
+        <state vertical-scroll-proportion="0.7748851">
+          <caret line="71" column="12" selection-start-line="71" selection-start-column="12" selection-end-line="71" selection-end-column="12" />
           <folding />
         </state>
       </provider>
