@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12a1d73f-5019-4091-b211-2fb215b3bca6" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/etc/production.ini" afterPath="$PROJECT_DIR$/etc/production.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/etc/uwsgi.ini" afterPath="$PROJECT_DIR$/etc/uwsgi.ini" />
     </list>
     <ignored path="myproject.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -34,21 +34,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="production.ini" pinned="false" current-in-tab="true">
+      <file leaf-file-name="production.ini" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/etc/production.ini">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3115578">
+            <state vertical-scroll-proportion="-3.3214285">
               <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="uwsgi.ini" pinned="false" current-in-tab="false">
+      <file leaf-file-name="uwsgi.ini" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/etc/uwsgi.ini">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.946429">
-              <caret line="55" column="10" selection-start-line="55" selection-start-column="10" selection-end-line="55" selection-end-column="10" />
+            <state vertical-scroll-proportion="0.1524288">
+              <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -145,8 +145,8 @@
         <option value="$PROJECT_DIR$/start.sh" />
         <option value="$PROJECT_DIR$/production.ini" />
         <option value="$PROJECT_DIR$/myproject/templates/index.html" />
-        <option value="$PROJECT_DIR$/etc/uwsgi.ini" />
         <option value="$PROJECT_DIR$/etc/production.ini" />
+        <option value="$PROJECT_DIR$/etc/uwsgi.ini" />
       </list>
     </option>
   </component>
@@ -749,18 +749,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/etc/uwsgi.ini">
+    <entry file="file://$PROJECT_DIR$/etc/production.ini">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.946429">
-          <caret line="55" column="10" selection-start-line="55" selection-start-column="10" selection-end-line="55" selection-end-column="10" />
+        <state vertical-scroll-proportion="-3.3214285">
+          <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/etc/production.ini">
+    <entry file="file://$PROJECT_DIR$/etc/uwsgi.ini">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3115578">
-          <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+        <state vertical-scroll-proportion="0.1524288">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
           <folding />
         </state>
       </provider>
