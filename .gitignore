@@ -1,6 +1,6 @@
 logs/*.log
 tmp
-.idea/workspace.xml
+.idea
 .history
 .settings
 *.swp
