@@ -17,7 +17,7 @@ def get_resource(*path):
 
 @subscriber(BeforeRender)
 def add_renderer_globals(event):
-    event['t'] = s
+    event['s'] = s
 
 
 def s(request, filep):

@@ -19,4 +19,5 @@ def main(global_config, **settings):
     config.add_translation_dirs('myproject:locale')
     config.include('pyramid_jinja2')
     config.add_renderer('.html', renderer_factory)
+    config.add_static_view('static', 'myproject:static', cache_max_age=3600)
     return config.make_wsgi_app()
