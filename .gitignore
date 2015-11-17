@@ -1,6 +1,5 @@
 logs/*.log
 tmp
-.idea
 .history
 .settings
 *.swp
@@ -41,3 +40,4 @@ membercard/static/images/guaguakaresult/*.png
 membercard/static/720/userprojects
 *.DS_Store
 gitup.sh
+.idea
