@@ -2,7 +2,7 @@
 import os
 from pyramid.events import subscriber
 from pyramid.events import BeforeRender
-from webhelpers.html import literal
+from urllib.parse import quote
 
 URL_PREFIX = '/'
 
@@ -21,4 +21,4 @@ def add_renderer_globals(event):
 
 
 def s(request, filep):
-    return literal(request.static_url('mypropject:static' + filep))
+    return quote(request.static_url('mypropject:static' + filep))
