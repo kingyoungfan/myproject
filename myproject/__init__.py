@@ -1,6 +1,9 @@
+import os
 from pyramid.config import Configurator
 from pyramid_jinja2 import renderer_factory
 from myproject import routers
+
+PROJECT_PATH = os.path.abspath(os.path.dirname(__file__))
 
 
 def main(global_config, **settings):
