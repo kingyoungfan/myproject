@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>首页</title>
-    <link rel="stylesheet" href="{{ s('/css/bootstrap.css') }}"/>
+    <link rel="stylesheet" href="{{ s(request, '/css/bootstrap.css') }}"/>
     <link>
 </head>
 <body>
@@ -63,6 +63,6 @@
     </div>
 </nav>
 </body>
-<script src="{{ s('/js/bootstrap.js') }}"></script>
-<script src="{{ s('/js/jquery-2.1.4.js') }}"></script>
+<script src="{{ s(request,'/js/bootstrap.js') }}"></script>
+<script src="{{ s(request,'/js/jquery-2.1.4.js') }}"></script>
 </html>
