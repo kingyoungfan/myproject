@@ -21,5 +21,5 @@ def add_renderer_globals(event):
 
 
 def s(request, filep):
-    print(request.static_url('myproject:static' + filep))
+    print(request.static_url('myproject:static'))
     return request.static_url('myproject:static' + filep)
